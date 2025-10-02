@@ -1149,6 +1149,12 @@
 		)
 	)
 	(junction
+		(at -111.76 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "023dd466-d799-4813-aa2d-4bb9932f0662")
+	)
+	(junction
 		(at 198.12 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1161,10 +1167,28 @@
 		(uuid "1405ef86-ebe2-41bf-82f3-90559223ad52")
 	)
 	(junction
+		(at -66.04 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "149db817-3b53-4243-974a-003088ac2a35")
+	)
+	(junction
+		(at -129.54 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "176eff79-ca59-435c-8d4e-d9c6f69a9dae")
+	)
+	(junction
 		(at 205.74 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a54586b-8caa-43cd-b6cd-c1e23c9a5487")
+	)
+	(junction
+		(at -124.46 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1baa5b66-a68c-4c02-9286-8f847066394a")
 	)
 	(junction
 		(at 193.04 87.63)
@@ -1191,10 +1215,22 @@
 		(uuid "23048b57-a2a7-4d50-9f53-643bed0c0d1a")
 	)
 	(junction
+		(at -60.96 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23363dd4-d95b-4464-92c3-7ede0327ddab")
+	)
+	(junction
 		(at 205.74 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23b2b26f-f753-414f-a055-6a737f8f9ed2")
+	)
+	(junction
+		(at -116.84 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "293c6dc9-fef5-46e6-ab3e-36dab624ce24")
 	)
 	(junction
 		(at 185.42 93.98)
@@ -1239,6 +1275,12 @@
 		(uuid "2ec1cf1e-8e6b-49ab-a0e0-2a29c98cec3e")
 	)
 	(junction
+		(at -97.79 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3645b5a2-5dfa-4244-849f-7470efc1aa22")
+	)
+	(junction
 		(at 185.42 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1251,10 +1293,22 @@
 		(uuid "3ad3e56a-d1eb-4aff-af03-e29f574b117e")
 	)
 	(junction
+		(at -86.36 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d674002-ea61-4ed1-a24e-cb24ea6b2c6e")
+	)
+	(junction
 		(at 170.18 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3dfcbe42-afbe-4dcd-93fe-49c7d587106a")
+	)
+	(junction
+		(at -48.26 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e09ba6a-210d-4828-a1e7-191bc1394519")
 	)
 	(junction
 		(at 161.29 116.84)
@@ -1269,6 +1323,24 @@
 		(uuid "42ba0d2e-8475-427c-b4c2-412c0a89309d")
 	)
 	(junction
+		(at -85.09 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4698cf33-2d34-442d-9af2-1455d114ab6a")
+	)
+	(junction
+		(at -109.22 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47b944f0-668c-4ce1-bdfe-81861f8dd7f3")
+	)
+	(junction
+		(at -104.14 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4bfb86ea-7101-479a-af81-26d0245d2737")
+	)
+	(junction
 		(at 190.5 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1281,6 +1353,36 @@
 		(uuid "52e69172-3e5e-4f6b-8c4e-8a3a4aba4a0d")
 	)
 	(junction
+		(at -129.54 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "558dfb43-feaa-4d8e-bfe9-eaf32f0b1b30")
+	)
+	(junction
+		(at -91.44 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57367b92-c399-404c-ba0b-9bec9dd42975")
+	)
+	(junction
+		(at -80.01 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "579df8db-36cb-4b43-87e9-146bc3dc61cb")
+	)
+	(junction
+		(at -114.3 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5900520b-9c51-4c97-83e0-c99ebd03cedd")
+	)
+	(junction
+		(at -91.44 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d007141-6c57-4b9e-8ad9-9f9a658591e4")
+	)
+	(junction
 		(at 142.24 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1291,6 +1393,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "670b9515-de71-458b-9c38-1d0ca8e5f879")
+	)
+	(junction
+		(at -99.06 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "694355d6-1d63-4ee0-bf3c-825d5aaa06ea")
 	)
 	(junction
 		(at 210.82 100.33)
@@ -1317,6 +1425,18 @@
 		(uuid "7302f762-e9be-42e0-b221-6245ed79da79")
 	)
 	(junction
+		(at -60.96 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "734737e0-4580-43f2-a25b-e6e2fa6afbb0")
+	)
+	(junction
+		(at -86.36 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "739cf9f9-58b1-428f-9523-c01cfbdf18c8")
+	)
+	(junction
 		(at 193.04 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1335,10 +1455,22 @@
 		(uuid "77a0eb1a-d4db-4037-95ab-aec98191405d")
 	)
 	(junction
+		(at -74.93 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7954bae4-d2e5-4152-9fa3-6ac29e4950f6")
+	)
+	(junction
 		(at 167.64 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bf94422-e2a7-47e4-9dae-a80a4a9c4462")
+	)
+	(junction
+		(at -111.76 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7db531ba-2d40-4fbe-9da4-7d07204be9d6")
 	)
 	(junction
 		(at 172.72 114.3)
@@ -1347,10 +1479,22 @@
 		(uuid "7dfe6d92-a18c-4a80-9e34-36cde86d8013")
 	)
 	(junction
+		(at -80.01 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7fd2afee-59ee-43bb-a014-ade53738d02b")
+	)
+	(junction
 		(at 193.04 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8015a3e0-9220-45a6-a4b0-98383167400a")
+	)
+	(junction
+		(at -104.14 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8575654a-78ad-4108-8b29-80572b7b7b80")
 	)
 	(junction
 		(at 210.82 120.65)
@@ -1365,6 +1509,12 @@
 		(uuid "8e32fc96-aaa4-4cc8-ba17-535fdeb5e1ba")
 	)
 	(junction
+		(at -80.01 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f8c5917-8a46-4e8a-ad24-444c05bdc1a3")
+	)
+	(junction
 		(at 156.21 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1375,6 +1525,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9926759b-7599-4075-8d4d-9ba59b9a51ab")
+	)
+	(junction
+		(at -111.76 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a6126b1-6c10-4be0-9599-a41c72c23b85")
 	)
 	(junction
 		(at 193.04 158.75)
@@ -1395,10 +1551,46 @@
 		(uuid "9d3749e2-0621-4062-a1a7-0f0e78e642c5")
 	)
 	(junction
+		(at -116.84 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d4fa9ad-8f04-49cf-9b3a-826fca4ea842")
+	)
+	(junction
+		(at -60.96 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e2fe50c-a59c-4a5b-b7f8-cbcb92eead29")
+	)
+	(junction
 		(at 180.34 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9f36eab4-d1ff-41f2-a2f5-8968f4dbdb28")
+	)
+	(junction
+		(at -99.06 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a003a71e-f46e-4f88-848e-2107b215c5d6")
+	)
+	(junction
+		(at -111.76 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a207c6bd-743a-4666-b6d6-2884ad5970c6")
+	)
+	(junction
+		(at -104.14 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a59487cc-4935-4d73-917c-e5841845916a")
+	)
+	(junction
+		(at -99.06 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6392d47-e85e-4f59-85ca-37cf303107b1")
 	)
 	(junction
 		(at 182.88 172.72)
@@ -1413,16 +1605,64 @@
 		(uuid "a9937342-8d3d-47c6-97fe-f25691a91922")
 	)
 	(junction
+		(at -104.14 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa9481e2-89c0-4e03-b344-328f35857287")
+	)
+	(junction
+		(at -124.46 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "acfbe34f-ce8b-4804-bd5e-e0626c523d45")
+	)
+	(junction
+		(at -80.01 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af8c6e7c-9011-4549-aa9c-2ee8c973ca67")
+	)
+	(junction
+		(at -129.54 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4bcbcad-3f58-437b-9e05-35be48861d52")
+	)
+	(junction
 		(at 177.8 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b8777d3a-daf9-4e95-9939-a25f3f99451c")
 	)
 	(junction
+		(at -124.46 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "baec88d5-984f-4d28-97f1-1ec204b96c31")
+	)
+	(junction
 		(at 156.21 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb42a3f6-f0ed-4769-bd01-c2a0fb4bcc5b")
+	)
+	(junction
+		(at -74.93 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc0ef1bf-867b-4021-a2ae-7145e22e8474")
+	)
+	(junction
+		(at -83.82 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc1300c6-a219-4c1d-8f1b-0ad780ea30c9")
+	)
+	(junction
+		(at -116.84 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bcf3569b-6fb2-43aa-9005-2dfc7338aee0")
 	)
 	(junction
 		(at 193.04 107.95)
@@ -1443,10 +1683,34 @@
 		(uuid "c103426c-6a5c-4fe8-a394-16bc99de3a94")
 	)
 	(junction
+		(at -86.36 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2b99438-8df9-47ab-b399-b8ec18ef2791")
+	)
+	(junction
 		(at 185.42 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7f24656-d5da-4b3b-88a6-2be6961e4ab8")
+	)
+	(junction
+		(at -58.42 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb091683-82e6-49a7-8b13-837053a2c2da")
+	)
+	(junction
+		(at -91.44 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ccd0407f-1041-4fc3-ba68-73cf915356b9")
+	)
+	(junction
+		(at -74.93 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d94c6916-794d-4f90-b654-ad5a8b040947")
 	)
 	(junction
 		(at 167.64 135.89)
@@ -1461,16 +1725,82 @@
 		(uuid "ddf1aeb3-473f-4a1b-a7e2-3df52867ea95")
 	)
 	(junction
+		(at -129.54 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e24d189e-15a1-49e5-8a9a-ad5dbe5f8fa3")
+	)
+	(junction
+		(at -91.44 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e28a9e03-54ad-4d51-8b34-abcd823dfdc7")
+	)
+	(junction
+		(at -111.76 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2ed6dd6-2d0f-453a-99b4-336b6c7e95f5")
+	)
+	(junction
+		(at -86.36 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5473844-b428-49c7-b923-376007fba09f")
+	)
+	(junction
 		(at 142.24 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8a089bf-7d13-42b1-a34d-c2e5fcefae9f")
 	)
 	(junction
+		(at -99.06 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb32111e-8651-44c6-a1ea-0ca02a08723c")
+	)
+	(junction
+		(at -60.96 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec19cb02-4b59-435c-b8c4-7cc10e2dd67f")
+	)
+	(junction
+		(at -116.84 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4434b69-495c-464c-a2c7-d15f9bfc5dcc")
+	)
+	(junction
 		(at 166.37 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f44e97fb-f327-4ee9-aa0b-d2aae79dccde")
+	)
+	(junction
+		(at -88.9 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5b9b4ae-d4fb-422f-ad23-9f68a724cb60")
+	)
+	(junction
+		(at -101.6 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f99ee465-fbbf-46eb-abde-121753c4d22c")
+	)
+	(junction
+		(at -96.52 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9ddf8ea-8348-4068-8384-6fcb69cbf1bb")
+	)
+	(junction
+		(at -60.96 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fddea0ff-b923-4b9e-bfb6-f81699d4536e")
 	)
 	(junction
 		(at 205.74 107.95)
@@ -1500,6 +1830,16 @@
 	)
 	(wire
 		(pts
+			(xy -80.01 97.79) (xy -80.01 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04d141c5-306a-4345-895e-5147d7d41d54")
+	)
+	(wire
+		(pts
 			(xy 198.12 139.7) (xy 210.82 139.7)
 		)
 		(stroke
@@ -1507,6 +1847,26 @@
 			(type default)
 		)
 		(uuid "0568ce92-257f-4648-a18e-72e43af4f847")
+	)
+	(wire
+		(pts
+			(xy -74.93 102.87) (xy -74.93 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07c27d93-e1a3-4338-87e7-07510e591026")
+	)
+	(wire
+		(pts
+			(xy -124.46 83.82) (xy -124.46 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0859742a-c595-4b0c-a6cf-e2eccfe1fbd5")
 	)
 	(wire
 		(pts
@@ -1527,6 +1887,46 @@
 			(type default)
 		)
 		(uuid "0d01c500-a06b-4e0d-b52e-ae8fcea032fd")
+	)
+	(wire
+		(pts
+			(xy -111.76 157.48) (xy -111.76 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e8468dc-f0dd-4b73-b2ae-4946a9d2a7e7")
+	)
+	(wire
+		(pts
+			(xy -58.42 154.94) (xy -58.42 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "123110ad-f5fd-42dd-9454-1b6db413af62")
+	)
+	(wire
+		(pts
+			(xy -124.46 86.36) (xy -124.46 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "127552b6-a46a-472a-8033-4448018843d1")
+	)
+	(wire
+		(pts
+			(xy -104.14 156.21) (xy -104.14 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12f0e0a2-0a56-42f2-91ef-00e54c8b8def")
 	)
 	(wire
 		(pts
@@ -1570,6 +1970,16 @@
 	)
 	(wire
 		(pts
+			(xy -91.44 147.32) (xy -91.44 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18c9dcbd-4a04-4650-b84e-4941089d9a50")
+	)
+	(wire
+		(pts
 			(xy 161.29 130.81) (xy 172.72 130.81)
 		)
 		(stroke
@@ -1577,6 +1987,16 @@
 			(type default)
 		)
 		(uuid "1bfcc0ee-cfd6-48a5-852f-f31e72548a37")
+	)
+	(wire
+		(pts
+			(xy -104.14 99.06) (xy -116.84 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cb775ae-7451-42df-8300-8af5109cc12c")
 	)
 	(wire
 		(pts
@@ -1590,6 +2010,26 @@
 	)
 	(wire
 		(pts
+			(xy -86.36 97.79) (xy -86.36 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1db06064-fa4c-420d-8e09-4e9877dd76b1")
+	)
+	(wire
+		(pts
+			(xy -97.79 153.67) (xy -96.52 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f038828-e8da-4c98-bcbd-9dda1e1e6742")
+	)
+	(wire
+		(pts
 			(xy 180.34 81.28) (xy 180.34 101.6)
 		)
 		(stroke
@@ -1597,6 +2037,16 @@
 			(type default)
 		)
 		(uuid "1f773be9-53e4-4fe7-b8ab-2e1423135761")
+	)
+	(wire
+		(pts
+			(xy -91.44 92.71) (xy -104.14 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21214aab-3840-4ea8-9dfe-ff61d5ff43f3")
 	)
 	(wire
 		(pts
@@ -1627,6 +2077,16 @@
 			(type default)
 		)
 		(uuid "253493b3-d9c7-48db-aa23-ceb9f0bb226c")
+	)
+	(wire
+		(pts
+			(xy -74.93 80.01) (xy -74.93 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2700d63a-fe91-48b0-aa19-c5d9605ced0d")
 	)
 	(wire
 		(pts
@@ -1670,6 +2130,26 @@
 	)
 	(wire
 		(pts
+			(xy -80.01 152.4) (xy -66.04 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "300c4e23-3c3b-4cb2-8e6b-d11bc52aedde")
+	)
+	(wire
+		(pts
+			(xy -74.93 82.55) (xy -74.93 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30f3fdf7-0fb5-4cce-b52d-23195cd6a391")
+	)
+	(wire
+		(pts
 			(xy 167.64 78.74) (xy 167.64 99.06)
 		)
 		(stroke
@@ -1697,6 +2177,16 @@
 			(type default)
 		)
 		(uuid "345d652f-8703-48c0-9d74-d6955f9ff98d")
+	)
+	(wire
+		(pts
+			(xy -74.93 121.92) (xy -74.93 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34ded91d-6269-4b32-b457-dfb4311eafae")
 	)
 	(wire
 		(pts
@@ -1730,6 +2220,26 @@
 	)
 	(wire
 		(pts
+			(xy -116.84 156.21) (xy -104.14 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3891e9dc-d815-47a6-89ac-12bc98a13959")
+	)
+	(wire
+		(pts
+			(xy -138.43 99.06) (xy -129.54 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3910ee1b-b787-46ba-8cbe-27a43ba1b234")
+	)
+	(wire
+		(pts
 			(xy 185.42 120.65) (xy 185.42 114.3)
 		)
 		(stroke
@@ -1747,6 +2257,16 @@
 			(type default)
 		)
 		(uuid "3a2bd4d9-f656-4c64-b187-7b27f209d6e0")
+	)
+	(wire
+		(pts
+			(xy -66.04 137.16) (xy -58.42 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a3f1b16-1554-4c49-a155-44481e6e717f")
 	)
 	(wire
 		(pts
@@ -1770,6 +2290,56 @@
 	)
 	(wire
 		(pts
+			(xy -116.84 119.38) (xy -129.54 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f59e2b1-e352-4f6d-a3cb-9e46bc9cfc8c")
+	)
+	(wire
+		(pts
+			(xy -91.44 152.4) (xy -80.01 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "420baf78-0302-4c38-b2c2-f6253c51d9b0")
+	)
+	(wire
+		(pts
+			(xy -60.96 124.46) (xy -48.26 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44c42f96-8368-478a-868f-75e1a720599b")
+	)
+	(wire
+		(pts
+			(xy -104.14 119.38) (xy -104.14 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4534399c-7523-4bb8-bb96-198ca3d220f4")
+	)
+	(wire
+		(pts
+			(xy -111.76 143.51) (xy -111.76 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45978747-1f76-4bc4-ab6d-64d2d96bc9d9")
+	)
+	(wire
+		(pts
 			(xy 161.29 153.67) (xy 147.32 153.67)
 		)
 		(stroke
@@ -1777,6 +2347,16 @@
 			(type default)
 		)
 		(uuid "48464074-095e-4aca-87df-4f7a1db8c126")
+	)
+	(wire
+		(pts
+			(xy -48.26 124.46) (xy -48.26 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "497374d4-594c-4b11-8a54-715c071e60e0")
 	)
 	(wire
 		(pts
@@ -1790,6 +2370,16 @@
 	)
 	(wire
 		(pts
+			(xy -111.76 85.09) (xy -111.76 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4da99b39-d67f-4094-a6fb-4ce15042286f")
+	)
+	(wire
+		(pts
 			(xy 147.32 138.43) (xy 161.29 138.43)
 		)
 		(stroke
@@ -1800,6 +2390,26 @@
 	)
 	(wire
 		(pts
+			(xy -80.01 118.11) (xy -66.04 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50c88e0c-121e-4f8c-962b-84241cb954f1")
+	)
+	(wire
+		(pts
+			(xy -86.36 156.21) (xy -85.09 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5139ad9f-33af-4052-a036-6c129877901d")
+	)
+	(wire
+		(pts
 			(xy 185.42 114.3) (xy 172.72 114.3)
 		)
 		(stroke
@@ -1807,6 +2417,16 @@
 			(type default)
 		)
 		(uuid "521fae00-fb9d-4da6-bbab-6c91c00770ac")
+	)
+	(wire
+		(pts
+			(xy -85.09 156.21) (xy -83.82 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53aff5f7-5811-46d6-9b58-22e4fc78d40a")
 	)
 	(wire
 		(pts
@@ -1840,6 +2460,16 @@
 	)
 	(wire
 		(pts
+			(xy -138.43 119.38) (xy -129.54 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cc72ef3-1c01-4bea-9527-c77461adf2a4")
+	)
+	(wire
+		(pts
 			(xy 177.8 154.94) (xy 177.8 160.02)
 		)
 		(stroke
@@ -1870,6 +2500,16 @@
 	)
 	(wire
 		(pts
+			(xy -91.44 115.57) (xy -80.01 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64139d5c-8dab-4674-a63d-09d4c6bdf66e")
+	)
+	(wire
+		(pts
 			(xy 165.1 157.48) (xy 165.1 158.75)
 		)
 		(stroke
@@ -1877,6 +2517,26 @@
 			(type default)
 		)
 		(uuid "64984703-9b8c-4746-b4c3-76439500c271")
+	)
+	(wire
+		(pts
+			(xy -99.06 100.33) (xy -99.06 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69bc7f90-ea26-4354-b38d-598d1cfef8dc")
+	)
+	(wire
+		(pts
+			(xy -88.9 173.99) (xy -88.9 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b862415-dbad-4920-8cd1-6a24ccce0a43")
 	)
 	(wire
 		(pts
@@ -1890,6 +2550,56 @@
 	)
 	(wire
 		(pts
+			(xy -111.76 86.36) (xy -111.76 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6beee44f-61a7-4a14-8bf3-2df3814f1ef7")
+	)
+	(wire
+		(pts
+			(xy -129.54 138.43) (xy -138.43 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c80418e-4f22-4062-ac49-96f5723c7849")
+	)
+	(wire
+		(pts
+			(xy -66.04 152.4) (xy -66.04 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f2de1b8-c4b2-42d3-98e6-1f483d23e1b4")
+	)
+	(wire
+		(pts
+			(xy -116.84 99.06) (xy -129.54 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7360c3a0-4989-4fb2-a3dd-5ad495a92739")
+	)
+	(wire
+		(pts
+			(xy -60.96 105.41) (xy -60.96 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73b5db61-ae61-4131-b3e5-ec8d55c2042c")
+	)
+	(wire
+		(pts
 			(xy 210.82 139.7) (xy 219.71 139.7)
 		)
 		(stroke
@@ -1897,6 +2607,36 @@
 			(type default)
 		)
 		(uuid "73f18d18-d674-49ff-8993-f69681c68858")
+	)
+	(wire
+		(pts
+			(xy -86.36 134.62) (xy -86.36 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "752c61b9-7c25-4238-9e34-00801eb2aaa1")
+	)
+	(wire
+		(pts
+			(xy -104.14 129.54) (xy -104.14 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "774d567a-19b9-4fe4-b9dd-c770bbafe1ec")
+	)
+	(wire
+		(pts
+			(xy -96.52 153.67) (xy -96.52 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "789475c5-0b6c-4c37-b265-ab0f0203f72c")
 	)
 	(wire
 		(pts
@@ -1920,6 +2660,16 @@
 	)
 	(wire
 		(pts
+			(xy -60.96 142.24) (xy -60.96 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79921551-cbac-48c8-bd07-d047ced759d3")
+	)
+	(wire
+		(pts
 			(xy 166.37 158.75) (xy 165.1 158.75)
 		)
 		(stroke
@@ -1927,6 +2677,16 @@
 			(type default)
 		)
 		(uuid "7b602853-6c5d-4cd4-b9e1-a4e788af5017")
+	)
+	(wire
+		(pts
+			(xy -83.82 156.21) (xy -83.82 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bb4fc6e-c304-4833-ab8f-73750236f1c0")
 	)
 	(wire
 		(pts
@@ -1940,6 +2700,16 @@
 	)
 	(wire
 		(pts
+			(xy -124.46 125.73) (xy -124.46 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f1d7392-a1e0-4586-9b72-4d7c5a17c799")
+	)
+	(wire
+		(pts
 			(xy 139.7 138.43) (xy 139.7 146.05)
 		)
 		(stroke
@@ -1947,6 +2717,16 @@
 			(type default)
 		)
 		(uuid "812bfb56-2192-4e63-be1f-f8fa561bf51b")
+	)
+	(wire
+		(pts
+			(xy -91.44 129.54) (xy -104.14 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8158dbb8-ee46-45bb-8103-cbe9de640e6e")
 	)
 	(wire
 		(pts
@@ -1960,6 +2740,16 @@
 	)
 	(wire
 		(pts
+			(xy -104.14 149.86) (xy -104.14 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8266c042-3455-4677-b8ce-370024eb731f")
+	)
+	(wire
+		(pts
 			(xy 172.72 111.76) (xy 172.72 114.3)
 		)
 		(stroke
@@ -1970,6 +2760,76 @@
 	)
 	(wire
 		(pts
+			(xy -80.01 129.54) (xy -80.01 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "860aa263-8a23-4d64-9d25-2c116affe392")
+	)
+	(wire
+		(pts
+			(xy -104.14 147.32) (xy -91.44 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87a0cb12-e7cb-4add-8916-8823812256db")
+	)
+	(wire
+		(pts
+			(xy -80.01 95.25) (xy -91.44 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88786b38-812d-453b-b2d9-fd1142674d38")
+	)
+	(wire
+		(pts
+			(xy -99.06 76.2) (xy -99.06 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89eac475-0b61-4e81-99a2-217d47b2ca27")
+	)
+	(wire
+		(pts
+			(xy -111.76 106.68) (xy -111.76 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bc11943-f63f-4a3d-93ef-8481d079b402")
+	)
+	(wire
+		(pts
+			(xy -104.14 113.03) (xy -91.44 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d15e349-e35d-4cf1-bbcc-599d70fac163")
+	)
+	(wire
+		(pts
+			(xy -80.01 134.62) (xy -80.01 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8eb9baab-4e9d-40ec-914a-01811d005cbc")
+	)
+	(wire
+		(pts
 			(xy 161.29 96.52) (xy 172.72 96.52)
 		)
 		(stroke
@@ -1977,6 +2837,26 @@
 			(type default)
 		)
 		(uuid "8fb491b0-e112-4988-a6d6-e44cb509c349")
+	)
+	(wire
+		(pts
+			(xy -58.42 152.4) (xy -58.42 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "904447f4-6773-43a1-a28f-bc35fbf46e3e")
+	)
+	(wire
+		(pts
+			(xy -101.6 171.45) (xy -114.3 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "908b6d66-4b87-494d-9339-1c52eb95fc4b")
 	)
 	(wire
 		(pts
@@ -2000,6 +2880,16 @@
 	)
 	(wire
 		(pts
+			(xy -111.76 158.75) (xy -109.22 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "927c3404-df89-4565-aae2-988f77250b8e")
+	)
+	(wire
+		(pts
 			(xy 156.21 81.28) (xy 156.21 83.82)
 		)
 		(stroke
@@ -2007,6 +2897,16 @@
 			(type default)
 		)
 		(uuid "931e138a-8fa5-4489-9c0f-df542942db96")
+	)
+	(wire
+		(pts
+			(xy -99.06 119.38) (xy -99.06 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93a47e81-30d9-4311-8a37-da7baf02ef79")
 	)
 	(wire
 		(pts
@@ -2027,6 +2927,26 @@
 			(type default)
 		)
 		(uuid "95f2b9fc-ed6a-4961-8d38-c2fbc2b6fac1")
+	)
+	(wire
+		(pts
+			(xy -111.76 157.48) (xy -109.22 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "981a3f76-4a01-4240-a7d5-1d6bdb9de895")
+	)
+	(wire
+		(pts
+			(xy -58.42 154.94) (xy -60.96 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "982162db-e5df-40fc-a31f-1d3f05377197")
 	)
 	(wire
 		(pts
@@ -2070,6 +2990,26 @@
 	)
 	(wire
 		(pts
+			(xy -116.84 119.38) (xy -104.14 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d1d8160-1464-4ca5-b258-b925968c84aa")
+	)
+	(wire
+		(pts
+			(xy -86.36 116.84) (xy -86.36 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d25af1d-3fea-43ff-9f7f-a6bb15d02785")
+	)
+	(wire
+		(pts
 			(xy 172.72 130.81) (xy 185.42 130.81)
 		)
 		(stroke
@@ -2077,6 +3017,36 @@
 			(type default)
 		)
 		(uuid "9de17c2d-024a-4d52-9d34-f311aab96b2a")
+	)
+	(wire
+		(pts
+			(xy -99.06 137.16) (xy -99.06 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a04802f0-496c-4084-981a-0d236ed3b4e2")
+	)
+	(wire
+		(pts
+			(xy -124.46 106.68) (xy -124.46 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a07169e1-4c15-45d4-bc3c-323b6fd6b2fb")
+	)
+	(wire
+		(pts
+			(xy -91.44 90.17) (xy -91.44 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a072d9b9-53a3-4545-b7ab-31ef73a56f75")
 	)
 	(wire
 		(pts
@@ -2090,6 +3060,16 @@
 	)
 	(wire
 		(pts
+			(xy -114.3 171.45) (xy -137.16 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a096acce-47b4-4ec5-9f42-36207460561e")
+	)
+	(wire
+		(pts
 			(xy 142.24 143.51) (xy 142.24 153.67)
 		)
 		(stroke
@@ -2097,6 +3077,16 @@
 			(type default)
 		)
 		(uuid "a0f5865a-5de3-4696-8991-704564f0b9a2")
+	)
+	(wire
+		(pts
+			(xy -58.42 144.78) (xy -53.34 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2077dbc-eda6-466a-9d30-6798a17d14ee")
 	)
 	(wire
 		(pts
@@ -2140,6 +3130,26 @@
 	)
 	(wire
 		(pts
+			(xy -116.84 138.43) (xy -116.84 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a92ab7-0072-434b-a263-e1ec03061585")
+	)
+	(wire
+		(pts
+			(xy -80.01 129.54) (xy -91.44 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4bc15f0-33c9-4364-bfbc-c7bbef8a1fae")
+	)
+	(wire
+		(pts
 			(xy 170.18 175.26) (xy 170.18 171.45)
 		)
 		(stroke
@@ -2180,6 +3190,26 @@
 	)
 	(wire
 		(pts
+			(xy -91.44 92.71) (xy -91.44 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a954de5b-6ea8-4b51-850e-ca4a9ca19a44")
+	)
+	(wire
+		(pts
+			(xy -129.54 156.21) (xy -138.43 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9a0f7b4-5330-4830-aa8c-743a83c6553c")
+	)
+	(wire
+		(pts
 			(xy 156.21 83.82) (xy 156.21 104.14)
 		)
 		(stroke
@@ -2190,6 +3220,16 @@
 	)
 	(wire
 		(pts
+			(xy -60.96 132.08) (xy -60.96 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aec5523d-cd21-46f1-8bbf-a531e31b2370")
+	)
+	(wire
+		(pts
 			(xy 172.72 116.84) (xy 161.29 116.84)
 		)
 		(stroke
@@ -2197,6 +3237,16 @@
 			(type default)
 		)
 		(uuid "aed33a12-fcd8-49a3-97f3-42099a8ff338")
+	)
+	(wire
+		(pts
+			(xy -85.09 157.48) (xy -83.82 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af734945-ddbd-4336-b465-7cff81591255")
 	)
 	(wire
 		(pts
@@ -2230,6 +3280,26 @@
 	)
 	(wire
 		(pts
+			(xy -111.76 125.73) (xy -111.76 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4efda5f-29cf-4567-86e8-45e2e60f8ac8")
+	)
+	(wire
+		(pts
+			(xy -91.44 113.03) (xy -91.44 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5cd53d4-bdf9-40f5-8847-0d1452e9ee2d")
+	)
+	(wire
+		(pts
 			(xy 161.29 119.38) (xy 147.32 119.38)
 		)
 		(stroke
@@ -2237,6 +3307,16 @@
 			(type default)
 		)
 		(uuid "b7f60c07-fdb3-4cdb-adc8-67b388e98db6")
+	)
+	(wire
+		(pts
+			(xy -66.04 97.79) (xy -80.01 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9cef8ea-f60b-43a8-8ac3-334de6908282")
 	)
 	(wire
 		(pts
@@ -2260,6 +3340,16 @@
 	)
 	(wire
 		(pts
+			(xy -63.5 173.99) (xy -88.9 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd5557b3-82f4-427f-b16f-1d77ba6afebd")
+	)
+	(wire
+		(pts
 			(xy 185.42 151.13) (xy 185.42 148.59)
 		)
 		(stroke
@@ -2267,6 +3357,16 @@
 			(type default)
 		)
 		(uuid "bf10dd64-69e4-4510-9d65-550a03aad9c0")
+	)
+	(wire
+		(pts
+			(xy -116.84 132.08) (xy -104.14 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfe79db7-9b2c-4fca-97e2-a7e963fd28d9")
 	)
 	(wire
 		(pts
@@ -2280,6 +3380,26 @@
 	)
 	(wire
 		(pts
+			(xy -60.96 154.94) (xy -60.96 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c04affba-de8a-4371-a400-1e5fd145dc76")
+	)
+	(wire
+		(pts
+			(xy -116.84 156.21) (xy -129.54 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c148061e-251f-48b9-8286-ebf66e50e952")
+	)
+	(wire
+		(pts
 			(xy 180.34 77.47) (xy 180.34 81.28)
 		)
 		(stroke
@@ -2287,6 +3407,26 @@
 			(type default)
 		)
 		(uuid "c1f9ba02-432f-46cc-9bc7-85eddc8f4bb8")
+	)
+	(wire
+		(pts
+			(xy -88.9 170.18) (xy -101.6 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c21f3831-fb88-4b03-816e-e5c9d3490f8f")
+	)
+	(wire
+		(pts
+			(xy -101.6 170.18) (xy -101.6 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c34b04e0-c9ab-4b26-a1c4-522355c7e6f2")
 	)
 	(wire
 		(pts
@@ -2300,6 +3440,36 @@
 	)
 	(wire
 		(pts
+			(xy -85.09 156.21) (xy -85.09 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd37ee79-adbd-458b-9e5c-0dcdc1b1f976")
+	)
+	(wire
+		(pts
+			(xy -86.36 76.2) (xy -86.36 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cda726a5-003f-45ae-a4be-2bea176b83b2")
+	)
+	(wire
+		(pts
+			(xy -58.42 137.16) (xy -58.42 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d05a9dc0-509b-4664-b734-2cf7008871c8")
+	)
+	(wire
+		(pts
 			(xy 167.64 77.47) (xy 167.64 78.74)
 		)
 		(stroke
@@ -2307,6 +3477,16 @@
 			(type default)
 		)
 		(uuid "d0c3da00-9481-463b-bbdf-a5d512df70e5")
+	)
+	(wire
+		(pts
+			(xy -97.79 153.67) (xy -97.79 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d581dc90-70c5-4a19-b90b-e58b5a2caabd")
 	)
 	(wire
 		(pts
@@ -2350,6 +3530,26 @@
 	)
 	(wire
 		(pts
+			(xy -99.06 80.01) (xy -99.06 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df4b5c22-65db-4844-a3fd-9f0e3d304d11")
+	)
+	(wire
+		(pts
+			(xy -48.26 132.08) (xy -60.96 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1a0379e-1fd6-4b73-8e66-89ed0267e98f")
+	)
+	(wire
+		(pts
 			(xy 193.04 107.95) (xy 193.04 127)
 		)
 		(stroke
@@ -2357,6 +3557,26 @@
 			(type default)
 		)
 		(uuid "e1d5b299-fbc9-451d-b38f-bb9b11435364")
+	)
+	(wire
+		(pts
+			(xy -91.44 110.49) (xy -91.44 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4b342ec-23ed-411d-8039-cf899f6dc879")
+	)
+	(wire
+		(pts
+			(xy -97.79 158.75) (xy -96.52 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e567e8d2-9f9f-4b8d-aeba-7205bcccff49")
 	)
 	(wire
 		(pts
@@ -2400,6 +3620,26 @@
 	)
 	(wire
 		(pts
+			(xy -99.06 153.67) (xy -97.79 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e96be631-0a80-4c97-999a-8c56c9d7c5d5")
+	)
+	(wire
+		(pts
+			(xy -86.36 77.47) (xy -86.36 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9ff4fb3-936b-447a-95c9-49c3513e0950")
+	)
+	(wire
+		(pts
 			(xy 179.07 154.94) (xy 177.8 154.94)
 		)
 		(stroke
@@ -2440,6 +3680,16 @@
 	)
 	(wire
 		(pts
+			(xy -109.22 157.48) (xy -109.22 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a86142-b980-4c20-87de-a72cfd589715")
+	)
+	(wire
+		(pts
 			(xy 219.71 120.65) (xy 210.82 120.65)
 		)
 		(stroke
@@ -2460,6 +3710,26 @@
 	)
 	(wire
 		(pts
+			(xy -104.14 92.71) (xy -104.14 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4b37864-d10a-4ac0-a5a3-eceafeb0b049")
+	)
+	(wire
+		(pts
+			(xy -60.96 85.09) (xy -60.96 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5861b32-7834-44b8-96bd-0aae8988c092")
+	)
+	(wire
+		(pts
 			(xy 179.07 154.94) (xy 179.07 160.02)
 		)
 		(stroke
@@ -2467,6 +3737,100 @@
 			(type default)
 		)
 		(uuid "f7f313b9-460a-4e80-9195-ed0f42e4d713")
+	)
+	(wire
+		(pts
+			(xy -80.01 115.57) (xy -80.01 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f89023ca-f037-4cc4-a7b5-fcc27c0acd38")
+	)
+	(wire
+		(pts
+			(xy -60.96 152.4) (xy -58.42 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e18b15-c28d-4498-9a47-b1d4c37da926")
+	)
+	(wire
+		(pts
+			(xy -60.96 77.47) (xy -60.96 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb4aeb43-202d-4350-954d-6aa17b083b36")
+	)
+	(wire
+		(pts
+			(xy -116.84 138.43) (xy -129.54 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcd0887b-e5b5-4e85-9e06-0f80a1dad4ce")
+	)
+	(wire
+		(pts
+			(xy -66.04 137.16) (xy -80.01 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd239bff-33c9-4d42-86a7-cfaa5ba09846")
+	)
+	(global_label "column 0."
+		(shape input)
+		(at 2.54 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "056a2d56-1a72-4dbb-bca9-5b5d47698605")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.2012 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 1."
+		(shape input)
+		(at 2.54 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "058c5696-c93a-4d2a-9f1a-78674bcbaf66")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.2012 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "row 2"
 		(shape input)
@@ -2481,6 +3845,28 @@
 		(uuid "0743caf5-cff5-4305-b653-f2dca5245f21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 228.138 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 5."
+		(shape input)
+		(at -124.46 83.82 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "09e2d991-f9e7-4851-962e-424eec9bf11f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -124.46 71.1588 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2508,6 +3894,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 1."
+		(shape input)
+		(at -74.93 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0ce68de4-e44f-4ecb-82b0-488b037d0234")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -74.93 67.3488 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2552,6 +3960,72 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 0."
+		(shape input)
+		(at -60.96 77.47 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "21a957c5-b608-41fb-9647-14349cb76346")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -60.96 64.8088 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 0."
+		(shape input)
+		(at -138.43 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24098593-45c6-4a54-b523-2292d3ac54d5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -147.4628 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 4."
+		(shape input)
+		(at 2.54 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "246a691d-0fcc-4a01-a023-247c1a195bfd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.2012 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2644,6 +4118,50 @@
 			)
 		)
 	)
+	(global_label "column 2."
+		(shape input)
+		(at 2.54 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43b07437-3583-40d7-a9de-c3728e4982b5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.2012 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 1."
+		(shape input)
+		(at -27.94 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "458a20fa-10fa-4343-98e1-189e101999aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -36.9728 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row 3"
 		(shape input)
 		(at 219.71 157.48 0)
@@ -2662,6 +4180,94 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 0."
+		(shape input)
+		(at -27.94 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "49e3a2ee-4623-4bca-a9be-336c5761baab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -36.9728 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "-."
+		(shape input)
+		(at -33.02 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a70a51b-9629-48b1-96ac-35986e4462e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -27.8576 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 5."
+		(shape input)
+		(at 2.54 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "51707889-68b8-4872-9513-f2b848021834")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.2012 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 4."
+		(shape input)
+		(at -27.94 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "580b05ef-1444-4e55-8bed-8912866fad80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -36.9728 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2776,6 +4382,28 @@
 			)
 		)
 	)
+	(global_label "column 2."
+		(shape input)
+		(at -86.36 76.2 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ed8309e-adbb-4c15-892c-31d715183205")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -86.36 63.5388 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+"
 		(shape input)
 		(at 114.3 73.66 180)
@@ -2816,6 +4444,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "-."
+		(shape input)
+		(at -27.94 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f25c624-60f2-47ae-b384-a061be7cd9b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -33.1024 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 3."
+		(shape input)
+		(at -27.94 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a51da1cf-b6b1-47b6-9094-440e08b60016")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -36.9728 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2864,6 +4536,28 @@
 			)
 		)
 	)
+	(global_label "row 1."
+		(shape input)
+		(at -138.43 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "afaaf31b-88ab-41f0-991d-f4ba7b0ccd1f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -147.4628 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row 1"
 		(shape input)
 		(at 109.22 107.95 0)
@@ -2877,6 +4571,72 @@
 		(uuid "b8901843-70f1-4f59-ad85-ca46188eb708")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 117.648 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 3."
+		(shape input)
+		(at -138.43 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bb9c875b-f1ea-41f8-ad41-78ecb46d272d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -147.4628 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 4."
+		(shape input)
+		(at -111.76 85.09 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bee92c13-a3a0-4df7-b8c4-fc71e05fe671")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -111.76 72.4288 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 3."
+		(shape input)
+		(at 2.54 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c14185e5-22f0-4a74-a3f0-95e1f941d2d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.2012 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2908,6 +4668,28 @@
 			)
 		)
 	)
+	(global_label "row 2."
+		(shape input)
+		(at -27.94 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c77bb32a-25bc-4c88-b083-f4ea5d97ea8e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -36.9728 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "column 3"
 		(shape input)
 		(at 180.34 77.47 90)
@@ -2921,6 +4703,28 @@
 		(uuid "cacefd28-aab8-438c-809b-2f2beda3bf53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 180.34 65.4136 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "column 3."
+		(shape input)
+		(at -99.06 76.2 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cce6c592-b25f-42c5-aec1-d83f765ad27b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -99.06 63.5388 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2952,6 +4756,28 @@
 			)
 		)
 	)
+	(global_label "+."
+		(shape input)
+		(at -27.94 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ddf94fc8-1ecf-4233-8e8e-56e43a1b3cad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -33.1024 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "column 2"
 		(shape input)
 		(at 78.74 102.87 180)
@@ -2965,6 +4791,28 @@
 		(uuid "de2fd1f9-917f-4410-b104-d04c267b1e93")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 66.6836 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 2."
+		(shape input)
+		(at -138.43 138.43 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de64b902-a39a-4195-9a65-fd9b578459c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -147.4628 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,6 +4862,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 4."
+		(shape input)
+		(at -137.16 171.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea7869b2-0ef9-4495-802e-d523b60a6e5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -146.1928 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+."
+		(shape input)
+		(at -33.02 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f601ea89-6ea1-4fb2-acef-78978a819b38")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -27.8576 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3106,6 +4998,95 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -66.04 151.13 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0610f429-de41-4371-b9b3-637abfc6311f")
+		(property "Reference" "D35"
+			(at -68.58 149.8599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -68.58 152.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -66.04 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -66.04 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -66.04 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -66.04 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -66.04 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ffd2a7c-2196-4b64-8889-573929ab4c52")
+		)
+		(pin "2"
+			(uuid "048a467b-d6b0-4cd7-88e0-4781317fd1c7")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 185.42 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3187,6 +5168,273 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -129.54 152.4 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e7394ba-8580-43c4-b066-c3c5eae90914")
+		(property "Reference" "D58"
+			(at -132.08 151.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -132.08 153.6699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d0b6746c-d3b0-4858-8e1a-35898401cfd8")
+		)
+		(pin "2"
+			(uuid "e468d950-1d9a-4c02-b16b-c111ec34b6d8")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -129.54 134.62 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ea8f960-4b06-4c57-b7cf-fc1fea31f93e")
+		(property "Reference" "D57"
+			(at -132.08 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -132.08 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "adcdd33d-883e-4301-a628-c8f9c75dc4f9")
+		)
+		(pin "2"
+			(uuid "d94379a3-47b9-4032-a1c1-bd71c7442853")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -104.14 88.9 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11ebbf9b-4f7d-4d37-80fc-0d9a7fab5acf")
+		(property "Reference" "D46"
+			(at -106.68 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -106.68 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -104.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -104.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -104.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -104.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -104.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1918314e-393a-421b-887a-dceceece035f")
+		)
+		(pin "2"
+			(uuid "171c4355-e2ea-4ee9-a166-205190328636")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -3622,6 +5870,233 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -80.01 111.76 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c491ee7-7b04-4f4e-ad26-194f1b274c2d")
+		(property "Reference" "D37"
+			(at -82.55 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -82.55 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72c63dc5-9e70-42c0-9f1d-011fdf39fb0e")
+		)
+		(pin "2"
+			(uuid "9e03fb34-7c48-4a43-87c6-c4f1ba03dc34")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -86.36 160.02 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c58fb5b-3e64-4fc4-bffb-6477fdc08e5a")
+		(property "Reference" "S40"
+			(at -86.36 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -86.36 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -86.36 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -86.36 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -86.36 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "929e3675-c90e-48a3-9f0b-e704a895c085")
+		)
+		(pin "2"
+			(uuid "74c52443-f815-46ff-900a-b23a71e39a95")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -99.06 161.29 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30de45d1-5b17-4f47-9f9f-16a4b30c7eee")
+		(property "Reference" "S45"
+			(at -99.06 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -99.06 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -99.06 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -99.06 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -99.06 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bfac103f-6d82-4de6-80c9-bd149b324eee")
+		)
+		(pin "2"
+			(uuid "a071527c-3e20-45a9-822c-39bf96218023")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 161.29 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3845,6 +6320,235 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at -38.1 72.39 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "354135c3-e4c9-41ee-b09a-d743c64074a3")
+		(property "Reference" "J2"
+			(at -39.37 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at -39.37 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
+			(at -38.1 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -38.1 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at -38.1 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "52a6ccf6-38db-4600-a1e4-8e3b8e56b31e")
+		)
+		(pin "2"
+			(uuid "f69e9a75-8f79-4b3e-8fbb-e4aabef891fe")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -104.14 146.05 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35ec5ec5-4f64-4ed7-a713-dc3e240e07a3")
+		(property "Reference" "D49"
+			(at -106.68 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -106.68 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -104.14 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -104.14 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -104.14 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -104.14 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -104.14 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ee29f0f-9ae7-410b-b99a-f34a568fc8da")
+		)
+		(pin "2"
+			(uuid "c8a7e2c5-ebdb-4957-96f6-abfe24befe5b")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -63.5 107.95 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "363c593b-6003-4bc4-ba9c-b2fb61c445b9")
+		(property "Reference" "S33"
+			(at -63.5 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -63.5 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -63.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -63.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -63.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2e39d8e-a74c-409c-be70-0b0c3499055e")
+		)
+		(pin "2"
+			(uuid "d0df2a7f-b0f1-42b4-83b6-ffc88c594ae0")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 158.75 86.36 0)
 		(unit 1)
@@ -3907,6 +6611,95 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -91.44 106.68 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38a3d1d1-4a31-463e-bc25-f20e2413a225")
+		(property "Reference" "D42"
+			(at -93.98 105.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -93.98 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -91.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -91.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -91.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -91.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -91.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "31a6a534-dfac-41a1-8804-dce764c3d59a")
+		)
+		(pin "2"
+			(uuid "ce332d7f-577d-4030-945c-ed5ba82ee11b")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -4043,6 +6836,95 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -66.04 133.35 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3da36d49-0398-41f8-9e23-bd98288ad4bc")
+		(property "Reference" "D34"
+			(at -68.58 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -68.58 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d64d236-778a-4900-bdf8-27dc95bf02e7")
+		)
+		(pin "2"
+			(uuid "38ecd7a6-2268-41ea-ac4c-9732ccea26d3")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -4402,6 +7284,233 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -127 88.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "490ecd78-a06b-49f9-9e00-fab79d0f151a")
+		(property "Reference" "S55"
+			(at -127 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -127 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -127 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -127 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -127 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61521abf-b2fa-450b-a49d-99c0996e6a76")
+		)
+		(pin "2"
+			(uuid "6ab18489-25c5-4cd6-9bb7-a9db5182c550")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -66.04 114.3 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a2585a1-2224-4d4f-a4bf-f7fa40662005")
+		(property "Reference" "D33"
+			(at -68.58 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -68.58 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -66.04 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -66.04 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -66.04 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -66.04 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -66.04 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f40117e-d667-47b5-9164-3099917f19f2")
+		)
+		(pin "2"
+			(uuid "3b3ab48e-73b6-4d20-9afd-59b7c605c7f2")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -127 128.27 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4bc6ee83-7394-49a4-8cca-941e5285cd4e")
+		(property "Reference" "S57"
+			(at -127 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -127 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -127 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -127 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -127 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "26a66709-881f-40d9-af80-325c4c720670")
+		)
+		(pin "2"
+			(uuid "1f5cf3c6-0cbe-4b4d-8783-5b68b3438e9a")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 195.58 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4463,6 +7572,75 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -88.9 119.38 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4fe8382a-0cb1-4a56-bff3-d1b578649f6e")
+		(property "Reference" "S43"
+			(at -88.9 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -88.9 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -88.9 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -88.9 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -88.9 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae983091-6716-45a1-b8a8-978572c8c953")
+		)
+		(pin "2"
+			(uuid "3f751339-1550-4230-b7a7-5545611af4f0")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S43")
 					(unit 1)
 				)
 			)
@@ -4538,6 +7716,144 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -63.5 87.63 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53c9e8d0-4f46-4e63-9e73-a313600dd0f2")
+		(property "Reference" "S32"
+			(at -63.5 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -63.5 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -63.5 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -63.5 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -63.5 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "94769419-0a0c-47cd-a7d7-5f89f82444c0")
+		)
+		(pin "2"
+			(uuid "967324a5-cbf1-493e-833e-9defcda9f671")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -101.6 102.87 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53d3fe07-797e-4855-8154-4a771d0a9f96")
+		(property "Reference" "S47"
+			(at -101.6 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3255d5b3-c4e7-4d9e-9c65-e03062a2aee7")
+		)
+		(pin "2"
+			(uuid "76a27f19-ac74-44f9-9b7a-b83cb2e04139")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 144.78 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4599,6 +7915,184 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -104.14 109.22 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "574f3b0d-8beb-4c15-a6bd-781f0a5b6219")
+		(property "Reference" "D47"
+			(at -106.68 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -106.68 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -104.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -104.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -104.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -104.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -104.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d72a75dd-67ac-45a7-9b19-656aad9a8d07")
+		)
+		(pin "2"
+			(uuid "d27be685-df38-49dc-9eaf-b07c8a4c7e2b")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -101.6 167.64 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57a9d82b-8c9a-4fb6-bdbc-4850bb819e28")
+		(property "Reference" "D45"
+			(at -104.14 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -104.14 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -101.6 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -101.6 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -101.6 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -101.6 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -101.6 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5ec27df-dc23-4c80-94dc-e4abb7983ffb")
+		)
+		(pin "2"
+			(uuid "5ea3f30d-02e8-4ddd-bacd-789b1577de3c")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -4667,6 +8161,71 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 1.27 152.4 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "588b2e73-499b-4459-97ca-deb957c25ecf")
+		(property "Reference" "H9"
+			(at -1.27 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at -1.27 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 1.27 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1.27 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 1.27 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -4755,6 +8314,164 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -91.44 143.51 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f567726-73ca-4d5c-ad45-cd5090d8a517")
+		(property "Reference" "D44"
+			(at -93.98 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -93.98 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -91.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -91.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -91.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -91.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -91.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d3c1fa0-7bd0-4b58-a3c4-76c708d46ce0")
+		)
+		(pin "2"
+			(uuid "8b0c1baa-da73-4584-8c29-2dc8e3c3e9fb")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -101.6 139.7 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f6d6316-b6f6-4d68-b754-454f7a54cfd8")
+		(property "Reference" "S49"
+			(at -101.6 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -101.6 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "773b1121-efd9-411c-b3d4-000671cda0c2")
+		)
+		(pin "2"
+			(uuid "cdacd6f8-1edb-4ace-b705-8f707e6b0b9a")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S49")
 					(unit 1)
 				)
 			)
@@ -5162,6 +8879,95 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -88.9 166.37 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "67b9ffbf-af08-4889-9ad2-8ff8a1832ab9")
+		(property "Reference" "D40"
+			(at -91.44 165.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -91.44 167.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -88.9 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -88.9 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -88.9 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -88.9 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -88.9 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a416710e-23c3-401a-bad0-eaa7c9e6853d")
+		)
+		(pin "2"
+			(uuid "ebc22586-810c-49e4-abfa-f70237eff9d6")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 172.72 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5243,6 +9049,144 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -50.8 134.62 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68e4bfac-96dc-4335-992f-96a07e5a005b")
+		(property "Reference" "S30"
+			(at -50.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -50.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -50.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -50.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -50.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "974d3d98-eb29-4964-9e7f-6f07564830af")
+		)
+		(pin "2"
+			(uuid "6aa70e31-b0e7-428c-b7be-581ddf2a827e")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -77.47 105.41 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6fba5056-86e3-4536-bb6a-59dd5fb0bba0")
+		(property "Reference" "S37"
+			(at -77.47 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -77.47 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -77.47 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -77.47 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -77.47 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65251084-c429-47e0-8634-0a7846ce5a8a")
+		)
+		(pin "2"
+			(uuid "5c0487ca-970a-46f3-9fad-4975d17c08d2")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S37")
 					(unit 1)
 				)
 			)
@@ -5399,6 +9343,164 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -114.3 128.27 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76918cc9-19b8-43de-9ed2-8517a9cf4c35")
+		(property "Reference" "S53"
+			(at -114.3 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -114.3 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -114.3 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -114.3 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -114.3 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b36be346-1578-49fd-bf69-0b294df809bc")
+		)
+		(pin "2"
+			(uuid "cfe76d78-0f01-4824-a5aa-1b59dfab3fe4")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -129.54 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76f9e6a6-e317-468c-a903-6635543ea34c")
+		(property "Reference" "D55"
+			(at -132.08 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -132.08 96.5199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1933140d-7ae8-4e7b-9f56-62dd2c9b87d6")
+		)
+		(pin "2"
+			(uuid "e62d76b5-f1cd-4ab4-a5be-0a24ae393b23")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -5782,6 +9884,160 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -80.01 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80497242-96d2-42ed-ae90-c8a8e44e44cb")
+		(property "Reference" "D36"
+			(at -82.55 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -82.55 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b9b36473-be22-4ff7-b41e-f944f75cc095")
+		)
+		(pin "2"
+			(uuid "88be7d0d-f365-47fb-ba4e-1d125a53cf83")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 1.27 142.24 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "828340c3-8174-4c79-93e1-909c4364fea4")
+		(property "Reference" "H7"
+			(at -1.27 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at -1.27 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 1.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 1.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 161.29 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5869,6 +10125,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 1.27 167.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84f67351-c067-4f55-a9bf-c46d500f0c42")
+		(property "Reference" "H12"
+			(at -1.27 166.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at -1.27 168.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 1.27 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1.27 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 1.27 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "H12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 144.78 128.27 0)
 		(unit 1)
@@ -5931,6 +10252,95 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -80.01 148.59 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87c5c227-6dcc-4e2e-8a2d-8bda3c32104c")
+		(property "Reference" "D39"
+			(at -82.55 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -82.55 149.8599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -80.01 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -80.01 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -80.01 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -80.01 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -80.01 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6ad01f3b-ad41-43b6-a26e-2db045d5da77")
+		)
+		(pin "2"
+			(uuid "6605b0e0-88a1-4101-ade2-2ca6e31efeff")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -6225,6 +10635,140 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -111.76 161.29 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "942e562f-c972-42dc-bdc8-b43025f074a0")
+		(property "Reference" "S50"
+			(at -111.76 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -111.76 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -111.76 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -111.76 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -111.76 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "252dc77e-e8ad-4817-8fa0-8ea1bf4e8f61")
+		)
+		(pin "2"
+			(uuid "9867bd7e-b12e-4c58-9e1a-aa2616a74de3")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 1.27 157.48 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95ce3a9d-1bef-4721-981f-26f7ada5323c")
+		(property "Reference" "H10"
+			(at -1.27 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at -1.27 158.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 1.27 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1.27 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 1.27 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 172.72 107.95 90)
 		(unit 1)
@@ -6307,6 +10851,164 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -116.84 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97dc2283-9354-43d0-b69a-b50fceaf06a1")
+		(property "Reference" "D51"
+			(at -119.38 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -119.38 96.5199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -116.84 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -116.84 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -116.84 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -116.84 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -116.84 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11cefd8f-bfd3-4214-8dca-b80f185527fb")
+		)
+		(pin "2"
+			(uuid "7f24ead9-06ca-4cf4-a192-3056b217f730")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -63.5 144.78 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99e8b370-fc5c-4d6f-b7d5-aa7c0c09f5d6")
+		(property "Reference" "S35"
+			(at -63.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -63.5 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -63.5 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -63.5 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -63.5 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9042ac97-341c-4b03-a9a2-11393cc2e195")
+		)
+		(pin "2"
+			(uuid "12bd0546-f3ef-4cf3-aa60-d587183acc12")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S35")
 					(unit 1)
 				)
 			)
@@ -6465,6 +11167,391 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -101.6 121.92 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d7a2307-1af2-48d5-91fa-cd0285cd0cfa")
+		(property "Reference" "S48"
+			(at -101.6 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -101.6 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c75b224b-75c6-4171-8add-3708cbfa55b4")
+		)
+		(pin "2"
+			(uuid "9bb728b3-bb33-4f66-a6c9-44a0dde7003f")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -129.54 115.57 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0fb5c91-ec90-4f0e-a505-d084d6d070ba")
+		(property "Reference" "D56"
+			(at -132.08 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -132.08 116.8399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -129.54 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -129.54 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -129.54 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -129.54 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -129.54 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab116ae1-9427-45ac-a0df-615cd1e88f2f")
+		)
+		(pin "2"
+			(uuid "9fd0fc3e-d1ca-423d-8902-7728c2893245")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -63.5 127 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5b42fd7-5b7b-49f2-9bd0-25deec149631")
+		(property "Reference" "S34"
+			(at -63.5 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -63.5 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -63.5 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -63.5 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -63.5 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab5729ad-7bd5-444a-92dd-85724b87f2f0")
+		)
+		(pin "2"
+			(uuid "21bf90c9-c6e8-49a9-8156-d591f71e05a7")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -77.47 124.46 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9563060-1fe3-440d-b89d-383550eefd9b")
+		(property "Reference" "S38"
+			(at -77.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -77.47 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -77.47 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -77.47 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -77.47 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9ebc01b-6819-4e96-91cc-d91413e8fe9f")
+		)
+		(pin "2"
+			(uuid "495c8fbe-6ea3-4e06-8c20-83577544f6b6")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -80.01 130.81 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "abf2e2b0-138a-4d76-890c-f7cd5ccbc636")
+		(property "Reference" "D38"
+			(at -82.55 129.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -82.55 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -80.01 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -80.01 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -80.01 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -80.01 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -80.01 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a80bea8-e055-49a0-a917-9867a122dec0")
+		)
+		(pin "2"
+			(uuid "ac046a7e-65d5-4be6-8e27-87ba34432870")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 195.58 168.91 90)
 		(unit 1)
@@ -6547,6 +11634,529 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -77.47 142.24 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af20c7c4-e1d8-4c07-ad7f-737deb296022")
+		(property "Reference" "S39"
+			(at -77.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -77.47 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -77.47 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -77.47 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -77.47 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f1fc4fd-62c6-407e-9434-f559e7ed98f9")
+		)
+		(pin "2"
+			(uuid "a3a9d0d9-3b92-423a-8a66-7cb95203fcc9")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -116.84 134.62 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b11046f5-670d-4cfb-9fae-a0458dcd73e4")
+		(property "Reference" "D53"
+			(at -119.38 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -119.38 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -116.84 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -116.84 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -116.84 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -116.84 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -116.84 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "215a0bd5-30f1-4655-a652-87c8c1d96e3b")
+		)
+		(pin "2"
+			(uuid "747d45d8-5263-480e-bae4-ac564e97904a")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -88.9 80.01 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b31f4a77-2fff-48e3-92af-bf18d58aeb7a")
+		(property "Reference" "S41"
+			(at -88.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -88.9 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -88.9 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -88.9 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -88.9 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d212f42-43d0-4654-a27f-2b2c65412362")
+		)
+		(pin "2"
+			(uuid "702a75ac-930f-4c8c-972f-eb78e9de4da2")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -114.3 88.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b32afb0c-f6c6-47ed-aeda-6dfb5b0a32c2")
+		(property "Reference" "S51"
+			(at -114.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -114.3 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -114.3 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -114.3 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -114.3 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a53e6bf-29e3-4149-82ca-5f35416f68c1")
+		)
+		(pin "2"
+			(uuid "cb8e8b91-4bf7-4d0b-ac1b-dbdb0d363b2e")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -114.3 146.05 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b470d3e8-01bf-4bad-90a7-afb6c08b66f8")
+		(property "Reference" "S54"
+			(at -114.3 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -114.3 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66b4cdb5-18e9-42a1-ad70-6f3a15a101a4")
+		)
+		(pin "2"
+			(uuid "8e4cd394-5b8c-4ba3-9ec1-336594baf6be")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -114.3 109.22 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8bd3afb-ce32-4a39-ab18-80e3b36dce1a")
+		(property "Reference" "S52"
+			(at -114.3 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -114.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -114.3 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -114.3 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -114.3 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b47fbaa0-dc0f-40a4-9af9-61e5bd119bf3")
+		)
+		(pin "2"
+			(uuid "e7e96fff-fea9-4fc2-a27c-60f089867bd8")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -116.84 115.57 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8f0d476-75b7-463b-96e7-53d7adf7d8cc")
+		(property "Reference" "D52"
+			(at -119.38 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -119.38 116.8399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "88a4c074-d263-41bc-ad0f-db87ddb6328f")
+		)
+		(pin "2"
+			(uuid "20e0600a-c45b-4d76-8202-1fb882bc5408")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -6695,6 +12305,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 1.27 162.56 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9fcf7fe-8afd-410c-849d-cd3a43bb034e")
+		(property "Reference" "H11"
+			(at -1.27 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at -1.27 163.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 1.27 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1.27 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 1.27 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "H11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 210.82 96.52 90)
 		(unit 1)
@@ -6777,6 +12452,75 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -77.47 85.09 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba7049f3-c7de-4af5-bbe5-1231043255ae")
+		(property "Reference" "S36"
+			(at -77.47 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -77.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -77.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -77.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2a163144-7c86-484a-8154-106996d1a3b5")
+		)
+		(pin "2"
+			(uuid "43657d01-a1be-4ccc-9e82-e3d9e2200605")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S36")
 					(unit 1)
 				)
 			)
@@ -6939,6 +12683,237 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:MCU_Nice_Nano_V2")
+		(at -12.7 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd6fcd6c-a45a-42ec-bbbf-e9f4acebd9d4")
+		(property "Reference" "U1"
+			(at -12.7 119.38 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "Nice_Nano_V2"
+			(at -12.7 121.92 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2_Flipped"
+			(at -12.7 123.19 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 13.97 163.83 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -12.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "b32ed910-2c0f-48e5-88ce-e5770d4c0efd")
+		)
+		(pin "3"
+			(uuid "169a5eb8-0ea0-4700-a1d0-d178b631b8d4")
+		)
+		(pin "4"
+			(uuid "25c242e1-a278-42a8-9894-018dc6b54b8d")
+		)
+		(pin "5"
+			(uuid "51c43292-71ab-4322-9d31-bd5ff030081c")
+		)
+		(pin "1"
+			(uuid "e67d37d8-e5b9-4e84-a7b4-9be78399e28a")
+		)
+		(pin "2"
+			(uuid "74f71aad-fdb7-4517-8b67-bd135aa3c420")
+		)
+		(pin "6"
+			(uuid "96ab5647-9f76-4188-b8dc-11826572a395")
+		)
+		(pin "7"
+			(uuid "e33cdd37-c9cd-4d1b-984a-4fe3d372126f")
+		)
+		(pin "21"
+			(uuid "891db1ce-04bf-4958-ac05-ff9d948c4b0b")
+		)
+		(pin "24"
+			(uuid "f6dca1ad-87a2-45af-bf04-4eea5a3030db")
+		)
+		(pin "10"
+			(uuid "dc28ab95-8188-49db-a744-77792dbc440d")
+		)
+		(pin "20"
+			(uuid "9d2a0481-a1ab-4b35-8426-699a1dfa73c2")
+		)
+		(pin "23"
+			(uuid "174a58af-39b7-4981-af4e-4447168c8411")
+		)
+		(pin "25"
+			(uuid "39277461-e7b8-4a7b-90c1-678c3a18c6fa")
+		)
+		(pin "9"
+			(uuid "2d6fa302-231f-4335-a011-0a76058ab0c4")
+		)
+		(pin "22"
+			(uuid "1bd348c2-8a32-4cd7-af4b-51adb5f2ab10")
+		)
+		(pin "11"
+			(uuid "10a1f3eb-2b64-47b2-becc-2364ec8e0f10")
+		)
+		(pin "26"
+			(uuid "54015edd-c29f-49e2-b7f9-517405384fc8")
+		)
+		(pin "27"
+			(uuid "1316a42f-55dc-4895-b867-39a31e9260bb")
+		)
+		(pin "12"
+			(uuid "39402656-2088-4ee5-b82f-f0f526a741f6")
+		)
+		(pin "14"
+			(uuid "e0d78f23-2f0a-45b5-a7a4-a17a7c816020")
+		)
+		(pin "18"
+			(uuid "b13f77c3-b429-428c-acef-e87742b80444")
+		)
+		(pin "16"
+			(uuid "a00961f3-073d-40a9-8f6f-122437be90dc")
+		)
+		(pin "19"
+			(uuid "24c7c176-79a8-405a-b4d5-eac203b910e1")
+		)
+		(pin "17"
+			(uuid "da88bcf2-4265-4c8c-be4e-965a92e8de0a")
+		)
+		(pin "13"
+			(uuid "bcc241ed-0340-439f-879b-3dee35c37c23")
+		)
+		(pin "15"
+			(uuid "14a61a6a-4484-44ea-8703-d884572e8cdd")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -114.3 167.64 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c071e1d3-00e2-4163-b37f-30efd9e8d036")
+		(property "Reference" "D50"
+			(at -116.84 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -116.84 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -114.3 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -114.3 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -114.3 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -114.3 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -114.3 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9015cb2d-3994-418c-afdd-174aeac45889")
+		)
+		(pin "2"
+			(uuid "a2aace27-79e3-4d07-a613-3cf58c238ef9")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 80.01 168.91 0)
 		(unit 1)
@@ -7072,6 +13047,164 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -101.6 82.55 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c648b5a3-4457-405d-8a06-888ca40d54b9")
+		(property "Reference" "S46"
+			(at -101.6 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -101.6 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -101.6 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -101.6 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -101.6 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b117a98-e1a5-4e3a-93bf-10fa25e497ef")
+		)
+		(pin "2"
+			(uuid "bc725e98-e586-4be5-bca6-7347b6a2cf1f")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -116.84 152.4 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c79dd95b-8548-4e9b-99e2-00bf1da7d7f1")
+		(property "Reference" "D54"
+			(at -119.38 151.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -119.38 153.6699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ac5e201-b9fd-4bda-b72a-929d1f950f10")
+		)
+		(pin "2"
+			(uuid "7601e6d9-cf92-49c1-943f-7ed3db8d55d1")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 208.28 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7133,6 +13266,302 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -63.5 170.18 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc60fac3-3e3a-402a-bcef-7802050719df")
+		(property "Reference" "D31"
+			(at -66.04 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -66.04 171.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03ba4eb2-fc95-4ddf-b952-bf8c88efb5ec")
+		)
+		(pin "2"
+			(uuid "a8d97394-1184-413c-bfbf-cb1642285a09")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -60.96 163.83 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdcf69ac-0d4d-44ba-b5b2-c5a2b8b14bfd")
+		(property "Reference" "S31"
+			(at -60.96 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -60.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -60.96 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -60.96 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -60.96 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04e12467-bccd-4974-b150-db86be640008")
+		)
+		(pin "2"
+			(uuid "e4e5baba-5226-4435-8d9d-51a9aea817a1")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -88.9 100.33 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d00e6ff4-6019-4125-a471-bcc670f65d1d")
+		(property "Reference" "S42"
+			(at -88.9 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -88.9 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -88.9 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -88.9 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -88.9 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fbfefc5d-477f-47f0-bd48-9d838253d736")
+		)
+		(pin "2"
+			(uuid "24b2f9a0-be94-4844-8fd9-38cf3fe17883")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -88.9 137.16 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6c819df-d00b-4ce1-82c5-396ad972809c")
+		(property "Reference" "S44"
+			(at -88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -88.9 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -88.9 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -88.9 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -88.9 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c48eb9b6-dbb9-4de0-aa07-34bb4aa0007c")
+		)
+		(pin "2"
+			(uuid "ff1f8573-2fc9-4afd-9ebb-ab665f40919f")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S44")
 					(unit 1)
 				)
 			)
@@ -7228,6 +13657,95 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -104.14 128.27 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9ce9ee8-4252-4793-a031-d883f87038b8")
+		(property "Reference" "D48"
+			(at -106.68 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -106.68 129.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -104.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -104.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -104.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -104.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -104.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da6dd435-e6ab-4c48-b4e0-8ad8b4c9263f")
+		)
+		(pin "2"
+			(uuid "b7b5398a-d174-4074-bbc7-611e069a86f6")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 172.72 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7315,6 +13833,95 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -53.34 140.97 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db4db775-d5c6-4a3d-bfba-d6ecb59a4bfb")
+		(property "Reference" "D30"
+			(at -55.88 139.6999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -55.88 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -53.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -53.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -53.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -53.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -53.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f1161f8-db97-46b7-a823-c8debb793430")
+		)
+		(pin "2"
+			(uuid "22f50be3-524b-4f24-ab84-870dee9bdc56")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 193.04 162.56 0)
 		(unit 1)
@@ -7377,6 +13984,71 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 1.27 147.32 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2084929-4bc5-4a8c-9b45-2e2c0ecd93b6")
+		(property "Reference" "H8"
+			(at -1.27 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at -1.27 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 1.27 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1.27 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 1.27 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -7553,6 +14225,164 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -127 109.22 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e73d3a4f-5ee0-4989-8f8a-900dc271cc5b")
+		(property "Reference" "S56"
+			(at -127 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -127 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -127 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -127 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -127 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bc69fb4-5efe-4526-96dc-041f3439878b")
+		)
+		(pin "2"
+			(uuid "a1f5e582-accd-4243-bbbf-7711ad35ae6e")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -91.44 86.36 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7749699-f880-4c53-8f2f-a044da8ab96c")
+		(property "Reference" "D41"
+			(at -93.98 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -93.98 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -91.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -91.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -91.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -91.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -91.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8179a145-ef7b-4d28-8164-701574b25dbd")
+		)
+		(pin "2"
+			(uuid "576f9ac9-bb29-4bef-a95c-2af752a4c5c2")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -8029,6 +14859,95 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -66.04 93.98 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5b5f2e6-132c-43f4-b1c8-721fcd74b762")
+		(property "Reference" "D32"
+			(at -68.58 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -68.58 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "17e10ee4-64c9-4009-8f5e-71a5066c2ccb")
+		)
+		(pin "2"
+			(uuid "8445dde1-a22b-44e1-9b4b-65b4ae3cb1c6")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 80.01 153.67 0)
 		(unit 1)
@@ -8087,6 +15006,95 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -91.44 125.73 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb7fdfca-7da6-4cab-ad1d-c86efa7f461b")
+		(property "Reference" "D43"
+			(at -93.98 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -93.98 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b4cc8dac-d2e5-4fe6-baf4-b3926dd76aae")
+		)
+		(pin "2"
+			(uuid "c170ab5b-260a-43a9-9415-000e7686503a")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -8155,6 +15163,75 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -127 146.05 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff91ed21-ea8c-4003-8fe6-c69c086b0911")
+		(property "Reference" "S58"
+			(at -127 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -127 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -127 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -127 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -127 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e0e5d43-e24a-4328-b460-fae47f135b24")
+		)
+		(pin "2"
+			(uuid "0d39fac1-126e-404c-bd9d-81cea17f5801")
+		)
+		(instances
+			(project "THE SPLITY"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S58")
 					(unit 1)
 				)
 			)
