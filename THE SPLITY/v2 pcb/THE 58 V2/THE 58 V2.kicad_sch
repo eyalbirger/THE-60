@@ -1777,6 +1777,12 @@
 		(uuid "023dd466-d799-4813-aa2d-4bb9932f0662")
 	)
 	(junction
+		(at 129.54 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e3510cc-b08f-4332-87c9-f7d21ae3bdd0")
+	)
+	(junction
 		(at 198.12 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1819,22 +1825,10 @@
 		(uuid "1fad6a84-cd3c-4743-9377-1d5fe48afad7")
 	)
 	(junction
-		(at 139.7 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "208c3e3c-ebca-4e35-bbc5-d76254149207")
-	)
-	(junction
 		(at 142.24 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23048b57-a2a7-4d50-9f53-643bed0c0d1a")
-	)
-	(junction
-		(at -60.96 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "23363dd4-d95b-4464-92c3-7ede0327ddab")
 	)
 	(junction
 		(at 205.74 87.63)
@@ -1883,12 +1877,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2cb2170e-6edc-4b42-b1dc-07a61ae7828c")
-	)
-	(junction
-		(at 142.24 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ec1cf1e-8e6b-49ab-a0e0-2a29c98cec3e")
 	)
 	(junction
 		(at -97.79 153.67)
@@ -2227,6 +2215,12 @@
 		(uuid "acfbe34f-ce8b-4804-bd5e-e0626c523d45")
 	)
 	(junction
+		(at 158.75 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af26cc19-fb81-4642-b6e6-3260297316e1")
+	)
+	(junction
 		(at -80.01 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2305,16 +2299,16 @@
 		(uuid "c7f24656-d5da-4b3b-88a6-2be6961e4ab8")
 	)
 	(junction
-		(at -58.42 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb091683-82e6-49a7-8b13-837053a2c2da")
-	)
-	(junction
 		(at -91.44 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ccd0407f-1041-4fc3-ba68-73cf915356b9")
+	)
+	(junction
+		(at -48.26 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d48fcd75-5c7f-46d9-93ea-e0ec605374a5")
 	)
 	(junction
 		(at -74.93 121.92)
@@ -2335,6 +2329,12 @@
 		(uuid "ddf1aeb3-473f-4a1b-a7e2-3df52867ea95")
 	)
 	(junction
+		(at -63.5 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e07f56f6-1748-4e03-a9ec-6059faa5320b")
+	)
+	(junction
 		(at -129.54 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2345,6 +2345,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e28a9e03-54ad-4d51-8b34-abcd823dfdc7")
+	)
+	(junction
+		(at -60.96 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e297b249-bdae-4e84-8c66-46df07bf9c1e")
 	)
 	(junction
 		(at -111.76 125.73)
@@ -2405,12 +2411,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9ddf8ea-8348-4068-8384-6fcb69cbf1bb")
-	)
-	(junction
-		(at -60.96 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fddea0ff-b923-4b9e-bfb6-f81699d4536e")
 	)
 	(junction
 		(at 205.74 107.95)
@@ -2480,6 +2480,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 133.35) (xy 129.54 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0898a893-d4c2-4f58-b6fd-f0fdff572afa")
+	)
+	(wire
+		(pts
 			(xy 190.5 158.75) (xy 190.5 160.02)
 		)
 		(stroke
@@ -2510,7 +2520,7 @@
 	)
 	(wire
 		(pts
-			(xy -58.42 154.94) (xy -58.42 161.29)
+			(xy -45.72 160.02) (xy -45.72 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2660,16 +2670,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 153.67) (xy 139.7 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21b9e2e6-cea0-44b0-b050-d1dda4609074")
-	)
-	(wire
-		(pts
 			(xy 167.64 135.89) (xy 167.64 157.48)
 		)
 		(stroke
@@ -2730,7 +2730,7 @@
 	)
 	(wire
 		(pts
-			(xy -80.01 152.4) (xy -66.04 152.4)
+			(xy -80.01 154.94) (xy -66.04 154.94)
 		)
 		(stroke
 			(width 0)
@@ -2817,6 +2817,16 @@
 			(type default)
 		)
 		(uuid "355b2a20-8d0d-4b7f-8f7e-3ee31f3196ac")
+	)
+	(wire
+		(pts
+			(xy -63.5 173.99) (xy -88.9 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37d15ae7-7041-437b-9b13-7ca6857e06d9")
 	)
 	(wire
 		(pts
@@ -2940,6 +2950,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 162.56) (xy 134.62 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4db874a7-1a16-403a-b333-6d69b4adefe6")
+	)
+	(wire
+		(pts
 			(xy 147.32 138.43) (xy 161.29 138.43)
 		)
 		(stroke
@@ -2947,6 +2967,16 @@
 			(type default)
 		)
 		(uuid "4de1c6b4-6351-4d07-bbbd-882c53c1355d")
+	)
+	(wire
+		(pts
+			(xy -48.26 132.08) (xy -48.26 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4edebbe8-4c06-4bc2-815c-74cff1991393")
 	)
 	(wire
 		(pts
@@ -2990,16 +3020,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 153.67) (xy 139.7 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56c71bad-180d-4a96-b6b2-2413217ed35a")
-	)
-	(wire
-		(pts
 			(xy 142.24 125.73) (xy 142.24 143.51)
 		)
 		(stroke
@@ -3020,6 +3040,16 @@
 	)
 	(wire
 		(pts
+			(xy -60.96 124.46) (xy -60.96 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fa6ffb0-dff8-427e-9b44-409cbb7f7758")
+	)
+	(wire
+		(pts
 			(xy 177.8 154.94) (xy 177.8 160.02)
 		)
 		(stroke
@@ -3037,6 +3067,16 @@
 			(type default)
 		)
 		(uuid "60ddef36-0663-4dce-bf14-dfd2ba2be662")
+	)
+	(wire
+		(pts
+			(xy 153.67 160.02) (xy 153.67 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "610070ea-165c-4e72-bea8-12098c04603f")
 	)
 	(wire
 		(pts
@@ -3120,16 +3160,6 @@
 	)
 	(wire
 		(pts
-			(xy -66.04 152.4) (xy -66.04 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f2de1b8-c4b2-42d3-98e6-1f483d23e1b4")
-	)
-	(wire
-		(pts
 			(xy -116.84 99.06) (xy -129.54 99.06)
 		)
 		(stroke
@@ -3207,16 +3237,6 @@
 			(type default)
 		)
 		(uuid "78d876de-d1ab-41d0-bdbc-fc107da61e18")
-	)
-	(wire
-		(pts
-			(xy -60.96 142.24) (xy -60.96 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79921551-cbac-48c8-bd07-d047ced759d3")
 	)
 	(wire
 		(pts
@@ -3380,16 +3400,6 @@
 	)
 	(wire
 		(pts
-			(xy -58.42 152.4) (xy -58.42 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "904447f4-6773-43a1-a28f-bc35fbf46e3e")
-	)
-	(wire
-		(pts
 			(xy -101.6 171.45) (xy -114.3 171.45)
 		)
 		(stroke
@@ -3400,13 +3410,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 156.21) (xy 139.7 162.56)
+			(xy 142.24 160.02) (xy 153.67 160.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "91ff5402-c5d1-4588-9af3-9a7bdfd70741")
+		(uuid "909f78d5-e8b2-4b41-931c-443c90438342")
 	)
 	(wire
 		(pts
@@ -3480,13 +3490,13 @@
 	)
 	(wire
 		(pts
-			(xy -58.42 154.94) (xy -60.96 154.94)
+			(xy -60.96 158.75) (xy -59.69 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "982162db-e5df-40fc-a31f-1d3f05377197")
+		(uuid "98686c77-bd7d-45ab-95d9-b43a9abfe1d3")
 	)
 	(wire
 		(pts
@@ -3510,16 +3520,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 156.21) (xy 142.24 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b09f763-6e2a-4c94-9a07-9691ca2447c1")
-	)
-	(wire
-		(pts
 			(xy 198.12 157.48) (xy 185.42 157.48)
 		)
 		(stroke
@@ -3527,16 +3527,6 @@
 			(type default)
 		)
 		(uuid "9b6fce2e-e30d-49a3-9bb1-b42ee7b4a1f3")
-	)
-	(wire
-		(pts
-			(xy 142.24 156.21) (xy 142.24 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c8dc8a7-bee0-443b-9faf-ded5f9f4a716")
 	)
 	(wire
 		(pts
@@ -3577,16 +3567,6 @@
 			(type default)
 		)
 		(uuid "9fda8e68-ce10-4137-8511-74bd675213d2")
-	)
-	(wire
-		(pts
-			(xy -60.96 124.46) (xy -60.96 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a01a7c86-1c2c-4735-95b6-2af0a120d861")
 	)
 	(wire
 		(pts
@@ -3640,7 +3620,17 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 143.51) (xy 142.24 153.67)
+			(xy -59.69 158.75) (xy -59.69 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0af3fd0-7a42-4ab8-abdc-e84ba639f79e")
+	)
+	(wire
+		(pts
+			(xy 142.24 143.51) (xy 142.24 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3840,6 +3830,16 @@
 	)
 	(wire
 		(pts
+			(xy -80.01 154.94) (xy -80.01 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4cd194b-25c9-41b7-9c1b-747cfd0d36c8")
+	)
+	(wire
+		(pts
 			(xy -111.76 125.73) (xy -111.76 143.51)
 		)
 		(stroke
@@ -3857,6 +3857,26 @@
 			(type default)
 		)
 		(uuid "b5cd53d4-bdf9-40f5-8847-0d1452e9ee2d")
+	)
+	(wire
+		(pts
+			(xy -48.26 160.02) (xy -45.72 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7a1fa7f-27f7-45f5-a27d-1f20c090d17e")
+	)
+	(wire
+		(pts
+			(xy -59.69 161.29) (xy -58.42 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7aef747-db8a-4ec9-a8bd-b23ff6f8ee52")
 	)
 	(wire
 		(pts
@@ -3900,7 +3920,7 @@
 	)
 	(wire
 		(pts
-			(xy -63.5 173.99) (xy -88.9 173.99)
+			(xy -50.8 173.99) (xy -63.5 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3947,16 +3967,6 @@
 			(type default)
 		)
 		(uuid "c00d954a-9163-4562-9171-0112ac13b827")
-	)
-	(wire
-		(pts
-			(xy -60.96 154.94) (xy -60.96 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c04affba-de8a-4371-a400-1e5fd145dc76")
 	)
 	(wire
 		(pts
@@ -4070,6 +4080,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 175.26) (xy 170.18 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d68029c1-49a4-4c7c-af0d-b3cd2907d140")
+	)
+	(wire
+		(pts
 			(xy 193.04 158.75) (xy 193.04 160.02)
 		)
 		(stroke
@@ -4097,6 +4117,16 @@
 			(type default)
 		)
 		(uuid "da03a734-0f69-4c6b-8dd2-84d1aadbe8aa")
+	)
+	(wire
+		(pts
+			(xy -60.96 142.24) (xy -60.96 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc9d3ad2-5743-41f6-8045-dd1a6d042218")
 	)
 	(wire
 		(pts
@@ -4220,7 +4250,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 175.26) (xy 170.18 175.26)
+			(xy 139.7 175.26) (xy 158.75 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4317,16 +4347,6 @@
 			(type default)
 		)
 		(uuid "f89023ca-f037-4cc4-a7b5-fcc27c0acd38")
-	)
-	(wire
-		(pts
-			(xy -60.96 152.4) (xy -58.42 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9e18b15-c28d-4498-9a47-b1d4c37da926")
 	)
 	(wire
 		(pts
@@ -6778,6 +6798,74 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at 156.21 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "083993e4-66c3-4d19-93de-5425d9305920")
+		(property "Reference" "S59"
+			(at 156.21 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at 156.21 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at 156.21 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 156.21 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf0a8765-2582-43d7-9803-41df2e549e8b")
+		)
+		(pin "2"
+			(uuid "5f634490-d275-4a47-8919-266de5b046bc")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Resistor")
 		(at -8.89 179.07 0)
 		(mirror y)
@@ -7314,7 +7402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 195.58 147.32 0)
 			(effects
 				(font
@@ -7518,7 +7606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 182.88 83.82 0)
 			(effects
 				(font
@@ -7586,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 180.34 162.56 0)
 			(effects
 				(font
@@ -7654,7 +7742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 208.28 90.17 0)
 			(effects
 				(font
@@ -7691,6 +7779,95 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at -63.5 170.18 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "285ae0a4-4a16-4d3d-b81f-6a5b3e01d367")
+		(property "Reference" "D60"
+			(at -66.04 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at -66.04 171.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -63.5 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e367a3f-aa4f-480a-a54b-e0b7ae329425")
+		)
+		(pin "2"
+			(uuid "3ab52125-b70c-4590-be35-5159d4e5bc9a")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -7799,7 +7976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 182.88 140.97 0)
 			(effects
 				(font
@@ -7957,7 +8134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -86.36 160.02 0)
 			(effects
 				(font
@@ -8026,7 +8203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -99.06 161.29 0)
 			(effects
 				(font
@@ -8182,7 +8359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 182.88 104.14 0)
 			(effects
 				(font
@@ -8250,7 +8427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 195.58 129.54 0)
 			(effects
 				(font
@@ -8479,7 +8656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -63.5 107.95 0)
 			(effects
 				(font
@@ -8547,7 +8724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 158.75 86.36 0)
 			(effects
 				(font
@@ -8704,7 +8881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 167.64 161.29 0)
 			(effects
 				(font
@@ -8772,7 +8949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 195.58 110.49 0)
 			(effects
 				(font
@@ -9282,7 +9459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -127 88.9 0)
 			(effects
 				(font
@@ -9440,7 +9617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -127 128.27 0)
 			(effects
 				(font
@@ -9508,7 +9685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 195.58 90.17 0)
 			(effects
 				(font
@@ -9577,7 +9754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -88.9 119.38 0)
 			(effects
 				(font
@@ -9645,7 +9822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 182.88 123.19 0)
 			(effects
 				(font
@@ -9714,7 +9891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -63.5 87.63 0)
 			(effects
 				(font
@@ -9783,7 +9960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -101.6 102.87 0)
 			(effects
 				(font
@@ -9851,7 +10028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 144.78 109.22 0)
 			(effects
 				(font
@@ -10097,7 +10274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 81.28 0)
 			(effects
 				(font
@@ -10487,7 +10664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -101.6 139.7 0)
 			(effects
 				(font
@@ -10731,7 +10908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 158.75 106.68 0)
 			(effects
 				(font
@@ -10799,7 +10976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 158.75 125.73 0)
 			(effects
 				(font
@@ -11133,7 +11310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -50.8 134.62 0)
 			(effects
 				(font
@@ -11270,7 +11447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -77.47 105.41 0)
 			(effects
 				(font
@@ -11426,7 +11603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 208.28 129.54 0)
 			(effects
 				(font
@@ -11495,7 +11672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -114.3 128.27 0)
 			(effects
 				(font
@@ -11804,7 +11981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -11939,7 +12116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 132.08 135.89 0)
 			(effects
 				(font
@@ -12402,7 +12579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 144.78 128.27 0)
 			(effects
 				(font
@@ -12559,7 +12736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 138.43 0)
 			(effects
 				(font
@@ -12779,7 +12956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 158.75 143.51 0)
 			(effects
 				(font
@@ -12848,7 +13025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -111.76 161.29 0)
 			(effects
 				(font
@@ -12885,6 +13062,75 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at -60.96 163.83 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95134971-f3fa-4880-8adf-fe6ae380ea22")
+		(property "Reference" "S60"
+			(at -60.96 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at -60.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+			(at -60.96 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -60.96 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at -60.96 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a8d8fec-c9a3-4bb4-8761-e5801f4eae0d")
+		)
+		(pin "2"
+			(uuid "644d838a-40d5-4f00-8840-6d3118ca35dd")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "S60")
 					(unit 1)
 				)
 			)
@@ -13235,7 +13481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -63.5 144.78 0)
 			(effects
 				(font
@@ -13456,7 +13702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -101.6 121.92 0)
 			(effects
 				(font
@@ -13588,6 +13834,94 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Diode")
+		(at 158.75 171.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a50fba18-c5bd-4b48-ae79-8618d0ec3a19")
+		(property "Reference" "D59"
+			(at 161.29 170.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Diode"
+			(at 161.29 172.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
+			(at 158.75 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
+			(at 158.75 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 158.75 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 158.75 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70f25dd5-e6d1-455c-9bb8-e8c7ff50bbf2")
+		)
+		(pin "2"
+			(uuid "cf0e0637-c8a1-4004-baf9-a9409b087e37")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at -63.5 127 0)
 		(mirror y)
@@ -13614,7 +13948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -63.5 127 0)
 			(effects
 				(font
@@ -13683,7 +14017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -77.47 124.46 0)
 			(effects
 				(font
@@ -13929,7 +14263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -77.47 142.24 0)
 			(effects
 				(font
@@ -14087,7 +14421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -88.9 80.01 0)
 			(effects
 				(font
@@ -14156,7 +14490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -114.3 88.9 0)
 			(effects
 				(font
@@ -14225,7 +14559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -114.3 146.05 0)
 			(effects
 				(font
@@ -14294,7 +14628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -114.3 109.22 0)
 			(effects
 				(font
@@ -14747,7 +15081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -77.47 85.09 0)
 			(effects
 				(font
@@ -14815,7 +15149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 101.6 0)
 			(effects
 				(font
@@ -15347,7 +15681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 144.78 88.9 0)
 			(effects
 				(font
@@ -15416,7 +15750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -101.6 82.55 0)
 			(effects
 				(font
@@ -15573,7 +15907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 208.28 110.49 0)
 			(effects
 				(font
@@ -15617,7 +15951,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at -63.5 170.18 270)
+		(at -50.8 170.18 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15627,7 +15961,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc60fac3-3e3a-402a-bcef-7802050719df")
 		(property "Reference" "D31"
-			(at -66.04 168.9099 90)
+			(at -53.34 168.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15636,7 +15970,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at -66.04 171.4499 90)
+			(at -53.34 171.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15645,7 +15979,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at -63.5 170.18 0)
+			(at -50.8 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15654,7 +15988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -63.5 170.18 0)
+			(at -50.8 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15663,7 +15997,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at -63.5 170.18 0)
+			(at -50.8 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15672,7 +16006,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at -63.5 170.18 0)
+			(at -50.8 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15681,7 +16015,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at -63.5 170.18 0)
+			(at -50.8 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15706,7 +16040,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at -60.96 163.83 0)
+		(at -48.26 163.83 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15716,7 +16050,7 @@
 		(fields_autoplaced yes)
 		(uuid "cdcf69ac-0d4d-44ba-b5b2-c5a2b8b14bfd")
 		(property "Reference" "S31"
-			(at -60.96 156.21 0)
+			(at -48.26 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15724,15 +16058,15 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at -60.96 158.75 0)
+			(at -48.26 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
-			(at -60.96 163.83 0)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at -48.26 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15741,7 +16075,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -60.96 163.83 0)
+			(at -48.26 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15750,7 +16084,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at -60.96 163.83 0)
+			(at -48.26 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15800,7 +16134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -88.9 100.33 0)
 			(effects
 				(font
@@ -15937,7 +16271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -88.9 137.16 0)
 			(effects
 				(font
@@ -16359,7 +16693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 193.04 162.56 0)
 			(effects
 				(font
@@ -16468,7 +16802,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 144.78 171.45 90)
+		(at 139.7 171.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16477,7 +16811,7 @@
 		(fields_autoplaced yes)
 		(uuid "e227f5a7-15c9-4a1e-8aa8-6672b173b35f")
 		(property "Reference" "D29"
-			(at 147.32 170.1799 90)
+			(at 142.24 170.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16486,7 +16820,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 147.32 172.7199 90)
+			(at 142.24 172.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16495,7 +16829,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 144.78 171.45 0)
+			(at 139.7 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16504,7 +16838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 171.45 0)
+			(at 139.7 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16513,7 +16847,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 144.78 171.45 0)
+			(at 139.7 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16522,7 +16856,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 144.78 171.45 0)
+			(at 139.7 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16531,7 +16865,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 144.78 171.45 0)
+			(at 139.7 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16669,7 +17003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -127 109.22 0)
 			(effects
 				(font
@@ -16825,7 +17159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 144.78 146.05 0)
 			(effects
 				(font
@@ -16981,7 +17315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 208.28 147.32 0)
 			(effects
 				(font
@@ -17513,7 +17847,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 142.24 165.1 0)
+		(at 137.16 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17522,7 +17856,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb90feff-8983-4d06-bf68-f6ba470df107")
 		(property "Reference" "S29"
-			(at 142.24 157.48 0)
+			(at 137.16 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17530,15 +17864,15 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 142.24 160.02 0)
+			(at 137.16 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
-			(at 142.24 165.1 0)
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+			(at 137.16 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17547,7 +17881,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 165.1 0)
+			(at 137.16 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17556,7 +17890,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 142.24 165.1 0)
+			(at 137.16 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17606,7 +17940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at -127 146.05 0)
 			(effects
 				(font
