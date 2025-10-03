@@ -1150,6 +1150,130 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "ScottoKeebs:Placeholder_Resistor"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Resistor"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Placeholder_Resistor_0_1"
+				(rectangle
+					(start 2.54 -1.016)
+					(end -2.54 1.016)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Placeholder_Resistor_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ScottoKeebs:Placeholder_Switch"
 			(pin_numbers
 				(hide yes)
@@ -1665,12 +1789,6 @@
 		(uuid "1405ef86-ebe2-41bf-82f3-90559223ad52")
 	)
 	(junction
-		(at -66.04 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "149db817-3b53-4243-974a-003088ac2a35")
-	)
-	(junction
 		(at -129.54 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1803,12 +1921,6 @@
 		(uuid "3dfcbe42-afbe-4dcd-93fe-49c7d587106a")
 	)
 	(junction
-		(at -48.26 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e09ba6a-210d-4828-a1e7-191bc1394519")
-	)
-	(junction
 		(at 161.29 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1885,6 +1997,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e49d7ee-1f79-47f7-b988-096c604b359b")
+	)
+	(junction
+		(at -60.96 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "668ec93d-e4ce-4453-a3c6-8d9634556f2d")
 	)
 	(junction
 		(at 185.42 133.35)
@@ -2031,6 +2149,12 @@
 		(uuid "9a6126b1-6c10-4be0-9599-a41c72c23b85")
 	)
 	(junction
+		(at -66.04 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ae6750b-bb27-4689-b56c-b9db5ddd637d")
+	)
+	(junction
 		(at 193.04 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2047,12 +2171,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d4fa9ad-8f04-49cf-9b3a-826fca4ea842")
-	)
-	(junction
-		(at -60.96 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9e2fe50c-a59c-4a5b-b7f8-cbcb92eead29")
 	)
 	(junction
 		(at 180.34 81.28)
@@ -2742,16 +2860,6 @@
 	)
 	(wire
 		(pts
-			(xy -66.04 137.16) (xy -58.42 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a3f1b16-1554-4c49-a155-44481e6e717f")
-	)
-	(wire
-		(pts
 			(xy 210.82 157.48) (xy 219.71 157.48)
 		)
 		(stroke
@@ -2792,16 +2900,6 @@
 	)
 	(wire
 		(pts
-			(xy -60.96 124.46) (xy -48.26 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44c42f96-8368-478a-868f-75e1a720599b")
-	)
-	(wire
-		(pts
 			(xy -104.14 119.38) (xy -104.14 113.03)
 		)
 		(stroke
@@ -2829,16 +2927,6 @@
 			(type default)
 		)
 		(uuid "48464074-095e-4aca-87df-4f7a1db8c126")
-	)
-	(wire
-		(pts
-			(xy -48.26 124.46) (xy -48.26 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "497374d4-594c-4b11-8a54-715c071e60e0")
 	)
 	(wire
 		(pts
@@ -3402,6 +3490,16 @@
 	)
 	(wire
 		(pts
+			(xy -58.42 137.16) (xy -66.04 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a862e28-3258-423c-ac9f-9fa62827ddd7")
+	)
+	(wire
+		(pts
 			(xy 166.37 157.48) (xy 166.37 158.75)
 		)
 		(stroke
@@ -3479,6 +3577,16 @@
 			(type default)
 		)
 		(uuid "9fda8e68-ce10-4137-8511-74bd675213d2")
+	)
+	(wire
+		(pts
+			(xy -60.96 124.46) (xy -60.96 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a01a7c86-1c2c-4735-95b6-2af0a120d861")
 	)
 	(wire
 		(pts
@@ -3672,16 +3780,6 @@
 	)
 	(wire
 		(pts
-			(xy -60.96 132.08) (xy -60.96 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aec5523d-cd21-46f1-8bbf-a531e31b2370")
-	)
-	(wire
-		(pts
 			(xy 172.72 116.84) (xy 161.29 116.84)
 		)
 		(stroke
@@ -3719,6 +3817,16 @@
 			(type default)
 		)
 		(uuid "b3b062f9-f8e5-49f7-bb0b-f9026190c058")
+	)
+	(wire
+		(pts
+			(xy -58.42 144.78) (xy -58.42 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b46501dd-3141-43eb-bb1d-8eb2746e7122")
 	)
 	(wire
 		(pts
@@ -3902,6 +4010,16 @@
 	)
 	(wire
 		(pts
+			(xy -48.26 92.71) (xy -48.26 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8196fa0-3d3b-4e9c-9946-18103d3f8435")
+	)
+	(wire
+		(pts
 			(xy 166.37 157.48) (xy 165.1 157.48)
 		)
 		(stroke
@@ -3929,16 +4047,6 @@
 			(type default)
 		)
 		(uuid "cda726a5-003f-45ae-a4be-2bea176b83b2")
-	)
-	(wire
-		(pts
-			(xy -58.42 137.16) (xy -58.42 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d05a9dc0-509b-4664-b734-2cf7008871c8")
 	)
 	(wire
 		(pts
@@ -4009,16 +4117,6 @@
 			(type default)
 		)
 		(uuid "df4b5c22-65db-4844-a3fd-9f0e3d304d11")
-	)
-	(wire
-		(pts
-			(xy -48.26 132.08) (xy -60.96 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1a0379e-1fd6-4b73-8e66-89ed0267e98f")
 	)
 	(wire
 		(pts
@@ -4262,44 +4360,44 @@
 	)
 	(global_label "column 0."
 		(shape input)
-		(at 2.54 96.52 0)
+		(at 33.02 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "056a2d56-1a72-4dbb-bca9-5b5d47698605")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2012 96.52 0)
+			(at 20.3588 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "column 1."
 		(shape input)
-		(at 2.54 99.06 0)
+		(at 33.02 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "058c5696-c93a-4d2a-9f1a-78674bcbaf66")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2012 99.06 0)
+			(at 20.3588 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4317,6 +4415,28 @@
 		(uuid "0743caf5-cff5-4305-b653-f2dca5245f21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 228.138 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "gnd."
+		(shape input)
+		(at -5.08 179.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "08c8928b-4d37-4539-9630-73eb79c0ab11")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 1.957 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4344,6 +4464,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "gnd"
+		(shape input)
+		(at 80.01 181.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0ae311a6-9c5b-4763-ae9d-0e0ea8977dfd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.5778 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4458,6 +4600,50 @@
 			)
 		)
 	)
+	(global_label "19."
+		(shape input)
+		(at 2.54 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1645d419-ea3f-4bb7-ba3a-c9ece8135f0f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 8.549 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "sck."
+		(shape input)
+		(at 2.54 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18d9c570-cace-408a-bed1-834b8d1934dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 9.2748 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "vcc"
 		(shape input)
 		(at 76.2 128.27 180)
@@ -4471,6 +4657,28 @@
 		(uuid "1a84a22a-59d7-4acb-89ba-d2026d49cc2f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 70.07 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "-."
+		(shape input)
+		(at -12.7 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e9f8bce-7cf0-4e0c-907f-3876f4c096e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -17.8624 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4546,6 +4754,28 @@
 			)
 		)
 	)
+	(global_label "-"
+		(shape input)
+		(at 87.63 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22b95626-ca87-4a43-b82a-26f89638fb14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.1876 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "20"
 		(shape input)
 		(at 76.2 130.81 180)
@@ -4592,22 +4822,22 @@
 	)
 	(global_label "column 4."
 		(shape input)
-		(at 2.54 106.68 0)
+		(at 33.02 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "246a691d-0fcc-4a01-a023-247c1a195bfd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2012 106.68 0)
+			(at 20.3588 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4625,6 +4855,28 @@
 		(uuid "25d55e5b-b7ee-46a7-9970-304f8f468dc5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 228.138 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "mosi."
+		(shape input)
+		(at 2.54 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25e8f542-bb1e-45d9-bd3e-a81735eb6162")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 10.6052 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4652,6 +4904,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+."
+		(shape input)
+		(at -29.21 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2808b9cc-d751-43dd-874b-193e67bf97f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -24.0476 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4700,9 +4974,53 @@
 			)
 		)
 	)
-	(global_label "gnd"
+	(global_label "b+."
 		(shape input)
-		(at 78.74 92.71 180)
+		(at -39.37 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3043a5b4-e44a-424e-b62a-b6a7f319393c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -45.6814 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "rst."
+		(shape input)
+		(at -40.64 166.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32c38f9a-0e6c-431a-9c04-ca90bf0f9803")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -46.77 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "-"
+		(shape input)
+		(at 86.36 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4712,7 +5030,7 @@
 		)
 		(uuid "34936e45-21af-4fe6-9777-6e8e03f8c57f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3078 92.71 0)
+			(at 81.8024 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,7 +5064,7 @@
 	)
 	(global_label "19"
 		(shape input)
-		(at 78.74 90.17 180)
+		(at 86.36 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4756,7 +5074,7 @@
 		)
 		(uuid "3d51b9f8-56fd-4ad0-a4da-3caa64fcb0c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 84.1442 90.17 0)
+			(at 91.7642 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4790,29 +5108,7 @@
 	)
 	(global_label "column 2."
 		(shape input)
-		(at 2.54 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "43b07437-3583-40d7-a9de-c3728e4982b5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2012 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "20."
-		(shape input)
-		(at -27.94 96.52 180)
+		(at 33.02 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4820,14 +5116,14 @@
 			)
 			(justify right)
 		)
-		(uuid "43cf189c-0975-417c-bd67-7b52435fcc40")
+		(uuid "43b07437-3583-40d7-a9de-c3728e4982b5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -21.931 96.52 0)
+			(at 20.3588 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4856,22 +5152,22 @@
 	)
 	(global_label "row 1."
 		(shape input)
-		(at -27.94 106.68 180)
+		(at 26.67 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "458a20fa-10fa-4343-98e1-189e101999aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -36.9728 106.68 0)
+			(at 35.7028 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4900,29 +5196,7 @@
 	)
 	(global_label "row 0."
 		(shape input)
-		(at -27.94 104.14 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "49e3a2ee-4623-4bca-a9be-336c5761baab")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -36.9728 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "-."
-		(shape input)
-		(at -33.02 74.93 0)
+		(at 26.67 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4930,9 +5204,9 @@
 			)
 			(justify left)
 		)
-		(uuid "4a70a51b-9629-48b1-96ac-35986e4462e7")
+		(uuid "49e3a2ee-4623-4bca-a9be-336c5761baab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -27.8576 74.93 0)
+			(at 35.7028 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4966,22 +5240,22 @@
 	)
 	(global_label "column 5."
 		(shape input)
-		(at 2.54 109.22 0)
+		(at 33.02 135.89 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "51707889-68b8-4872-9513-f2b848021834")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2012 109.22 0)
+			(at 20.3588 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5010,22 +5284,22 @@
 	)
 	(global_label "row 4."
 		(shape input)
-		(at -27.94 114.3 180)
+		(at 26.67 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "580b05ef-1444-4e55-8bed-8912866fad80")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -36.9728 114.3 0)
+			(at 35.7028 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5074,6 +5348,28 @@
 			)
 		)
 	)
+	(global_label "column -1."
+		(shape input)
+		(at -48.26 92.71 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "602236cc-8686-45e6-9b1b-cb2dec50d276")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -48.26 78.4764 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "cs."
 		(shape input)
 		(at -15.24 69.85 270)
@@ -5096,24 +5392,68 @@
 			)
 		)
 	)
-	(global_label "gnd."
+	(global_label "rst"
 		(shape input)
-		(at -13.97 134.62 180)
+		(at 116.84 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "6832c176-daab-4ad2-bc16-4154e9954bdd")
+		(uuid "63b2b3fa-3562-42cf-86b3-09e592b9c9c2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -21.007 134.62 0)
+			(at 122.3652 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "gnd."
+		(shape input)
+		(at -30.48 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64540e96-0283-43e7-91d7-2f69350f5ba7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -23.443 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "gnd."
+		(shape input)
+		(at -17.78 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6832c176-daab-4ad2-bc16-4154e9954bdd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -10.743 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5142,7 +5482,7 @@
 	)
 	(global_label "sck"
 		(shape input)
-		(at 78.74 100.33 180)
+		(at 86.36 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5152,7 +5492,7 @@
 		)
 		(uuid "6a3eb400-85cc-40a0-b3a3-76b1c5de6a46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.74 94.2 90)
+			(at 86.36 90.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5294,6 +5634,28 @@
 			)
 		)
 	)
+	(global_label "gnd."
+		(shape input)
+		(at -33.02 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "80820f63-1218-468f-ba6e-757b67e2125d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -25.983 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+"
 		(shape input)
 		(at 96.52 69.85 180)
@@ -5316,9 +5678,31 @@
 			)
 		)
 	)
+	(global_label "column -1."
+		(shape input)
+		(at 33.02 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "87012e4e-0933-4b22-813a-fb0c45e7c5fc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 18.7864 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "20"
 		(shape input)
-		(at 78.74 102.87 180)
+		(at 86.36 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5328,7 +5712,29 @@
 		)
 		(uuid "8a157be0-95a4-456a-95e5-5cb907297bea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.3358 102.87 0)
+			(at 80.9558 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "rst."
+		(shape input)
+		(at -27.94 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e23b9cd-2bdd-4187-8ec3-2468e2e50b76")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -34.07 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5362,7 +5768,7 @@
 	)
 	(global_label "mosi"
 		(shape input)
-		(at 78.74 97.79 180)
+		(at 86.36 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5372,7 +5778,7 @@
 		)
 		(uuid "94eaafa5-a865-4b9e-9ff3-99de7534a2cc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.2796 97.79 0)
+			(at 78.8996 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5384,22 +5790,22 @@
 	)
 	(global_label "vcc."
 		(shape input)
-		(at -13.97 127 180)
+		(at -17.78 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "9b7840d3-e315-4732-a5ec-32969e2d0177")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -20.7048 127 0)
+			(at -11.0452 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5448,75 +5854,75 @@
 			)
 		)
 	)
-	(global_label "-."
+	(global_label "20."
 		(shape input)
-		(at -27.94 88.9 180)
+		(at -17.78 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "9f25c624-60f2-47ae-b384-a061be7cd9b8")
+		(uuid "a1fc6f15-862d-4560-b0ae-265c137b8954")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -33.1024 88.9 0)
+			(at -11.771 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
-	(global_label "20."
+	(global_label "gnd"
 		(shape input)
-		(at -13.97 129.54 180)
+		(at 115.57 179.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "a1fc6f15-862d-4560-b0ae-265c137b8954")
+		(uuid "a4e1c918-070f-4a8f-ab06-efc3a716ca2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -19.979 129.54 0)
+			(at 122.0022 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "row 3."
 		(shape input)
-		(at -27.94 111.76 180)
+		(at 26.67 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "a51da1cf-b6b1-47b6-9094-440e08b60016")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -36.9728 111.76 0)
+			(at 35.7028 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "vcc"
 		(shape input)
-		(at 109.22 95.25 0)
+		(at 116.84 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5526,7 +5932,7 @@
 		)
 		(uuid "a64a161d-abd8-4936-a5b4-deb71cc7d561")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.35 95.25 0)
+			(at 122.97 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5558,9 +5964,9 @@
 			)
 		)
 	)
-	(global_label "gnd."
+	(global_label "-."
 		(shape input)
-		(at 2.54 93.98 0)
+		(at 2.54 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5570,7 +5976,7 @@
 		)
 		(uuid "abef9eab-ee49-4e31-bef5-2c3ca8d326f7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 9.577 93.98 0)
+			(at 7.7024 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5620,6 +6026,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "19."
+		(shape input)
+		(at -17.78 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b21f368f-7500-4336-b1a3-b57771ad5218")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -11.771 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5690,9 +6118,31 @@
 			)
 		)
 	)
+	(global_label "cs."
+		(shape input)
+		(at 2.54 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bf28da5c-4419-434a-b1a0-ce7da278197c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 8.2467 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "cs"
 		(shape input)
-		(at 78.74 87.63 180)
+		(at 86.36 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5702,7 +6152,29 @@
 		)
 		(uuid "bffd945f-c715-4087-bfe4-defcf9631c2b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.6381 87.63 0)
+			(at 81.2581 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "rst"
+		(shape input)
+		(at 105.41 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c03b9a86-e19b-4a83-aa2b-5a9373f642e1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.8848 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5714,29 +6186,29 @@
 	)
 	(global_label "column 3."
 		(shape input)
-		(at 2.54 104.14 0)
+		(at 33.02 130.81 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "c14185e5-22f0-4a74-a3f0-95e1f941d2d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.2012 104.14 0)
+			(at 20.3588 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "b+"
 		(shape input)
-		(at 109.22 87.63 0)
+		(at 116.84 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5746,7 +6218,7 @@
 		)
 		(uuid "c1bf906b-15f4-47fc-a17f-5052b585bad2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.9266 87.63 0)
+			(at 122.5466 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5780,22 +6252,22 @@
 	)
 	(global_label "row 2."
 		(shape input)
-		(at -27.94 109.22 180)
+		(at 26.67 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "c77bb32a-25bc-4c88-b083-f4ea5d97ea8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -36.9728 109.22 0)
+			(at 35.7028 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5844,6 +6316,28 @@
 			)
 		)
 	)
+	(global_label "b+."
+		(shape input)
+		(at -27.94 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ce4defd5-ecc4-4d0f-bcd7-94f919c3737d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -34.2514 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row 2"
 		(shape input)
 		(at 53.34 115.57 180)
@@ -5878,29 +6372,7 @@
 		)
 		(uuid "d9894be7-4c0b-4719-948f-7315d8073476")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.6778 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "+."
-		(shape input)
-		(at -27.94 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ddf94fc8-1ecf-4233-8e8e-56e43a1b3cad")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -33.1024 86.36 0)
+			(at 118.11 168.9922 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5998,6 +6470,28 @@
 			)
 		)
 	)
+	(global_label "20."
+		(shape input)
+		(at 2.54 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6d22361-67a0-470a-87a3-581e80d06ecc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 8.549 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "column -1"
 		(shape input)
 		(at 58.42 123.19 0)
@@ -6074,7 +6568,7 @@
 			)
 			(justify left)
 		)
-		(uuid "f601ea89-6ea1-4fb2-acef-78978a819b38")
+		(uuid "fa377457-a7b9-4ec8-8d97-2f22057e869b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at -27.8576 72.39 0)
 			(effects
@@ -6278,6 +6772,74 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Resistor")
+		(at -8.89 179.07 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c7d2cd7-0578-4624-a5ba-5191a4595137")
+		(property "Reference" "R2"
+			(at -8.89 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Resistor"
+			(at -8.89 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -8.89 180.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -8.89 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at -8.89 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "393e1969-7b54-48cd-8546-bfe7d5e14daa")
+		)
+		(pin "2"
+			(uuid "9a063d82-5b41-42e7-b704-63068ff1e2f1")
+		)
+		(instances
+			(project ""
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -6752,7 +7314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 195.58 147.32 0)
 			(effects
 				(font
@@ -6795,6 +7357,142 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Resistor")
+		(at 83.82 181.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "13a22185-35d3-4104-a3a3-b54af58509eb")
+		(property "Reference" "R1"
+			(at 83.82 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Resistor"
+			(at 83.82 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 183.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 83.82 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f25e4659-8f54-482c-8ac0-6cd66bc5bcb9")
+		)
+		(pin "2"
+			(uuid "a55b234a-7cd7-497a-9692-1e80a2cf7dee")
+		)
+		(instances
+			(project ""
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Switch")
+		(at 110.49 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a8be833-fca2-4b14-95d0-06502329b48b")
+		(property "Reference" "SW2"
+			(at 110.49 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Switch"
+			(at 110.49 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Button_MJTP1243"
+			(at 110.49 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.49 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 110.49 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70684ec5-b2f6-41d5-9c35-74dd60042358")
+		)
+		(pin "2"
+			(uuid "4eb98e29-e8bc-4e9c-8f7d-799fc666dceb")
+		)
+		(instances
+			(project ""
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 182.88 83.82 0)
 		(unit 1)
@@ -6820,7 +7518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 182.88 83.82 0)
 			(effects
 				(font
@@ -6888,7 +7586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 180.34 162.56 0)
 			(effects
 				(font
@@ -6956,7 +7654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 208.28 90.17 0)
 			(effects
 				(font
@@ -7000,7 +7698,8 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_TRRS")
-		(at -5.08 137.16 0)
+		(at -26.67 137.16 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7009,7 +7708,7 @@
 		(fields_autoplaced yes)
 		(uuid "29d3d18e-02e3-45c4-8904-38168dff0c84")
 		(property "Reference" "U4"
-			(at 1.27 129.5399 0)
+			(at -33.02 129.5399 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7018,7 +7717,7 @@
 			)
 		)
 		(property "Value" "TRRS"
-			(at 1.27 132.0799 0)
+			(at -33.02 132.0799 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7027,7 +7726,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:TRRS_PJ-320A"
-			(at -1.27 137.16 0)
+			(at -30.48 137.16 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7036,7 +7735,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -1.27 137.16 0)
+			(at -30.48 137.16 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7045,7 +7744,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -5.08 137.16 0)
+			(at -26.67 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7100,7 +7799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 182.88 140.97 0)
 			(effects
 				(font
@@ -7258,7 +7957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -86.36 160.02 0)
 			(effects
 				(font
@@ -7327,7 +8026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -99.06 161.29 0)
 			(effects
 				(font
@@ -7483,7 +8182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 182.88 104.14 0)
 			(effects
 				(font
@@ -7551,7 +8250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 195.58 129.54 0)
 			(effects
 				(font
@@ -7780,7 +8479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -63.5 107.95 0)
 			(effects
 				(font
@@ -7848,7 +8547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 158.75 86.36 0)
 			(effects
 				(font
@@ -8005,7 +8704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 167.64 161.29 0)
 			(effects
 				(font
@@ -8073,7 +8772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 195.58 110.49 0)
 			(effects
 				(font
@@ -8583,7 +9282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -127 88.9 0)
 			(effects
 				(font
@@ -8741,7 +9440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -127 128.27 0)
 			(effects
 				(font
@@ -8809,7 +9508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 195.58 90.17 0)
 			(effects
 				(font
@@ -8878,7 +9577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -88.9 119.38 0)
 			(effects
 				(font
@@ -8946,7 +9645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 182.88 123.19 0)
 			(effects
 				(font
@@ -9015,7 +9714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -63.5 87.63 0)
 			(effects
 				(font
@@ -9084,7 +9783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -101.6 102.87 0)
 			(effects
 				(font
@@ -9152,7 +9851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 144.78 109.22 0)
 			(effects
 				(font
@@ -9398,7 +10097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 170.18 81.28 0)
 			(effects
 				(font
@@ -9788,7 +10487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -101.6 139.7 0)
 			(effects
 				(font
@@ -10032,7 +10731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 158.75 106.68 0)
 			(effects
 				(font
@@ -10100,7 +10799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 158.75 125.73 0)
 			(effects
 				(font
@@ -10434,7 +11133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -50.8 134.62 0)
 			(effects
 				(font
@@ -10571,7 +11270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -77.47 105.41 0)
 			(effects
 				(font
@@ -10727,7 +11426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 208.28 129.54 0)
 			(effects
 				(font
@@ -10796,7 +11495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -114.3 128.27 0)
 			(effects
 				(font
@@ -11105,7 +11804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -11148,6 +11847,74 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Switch")
+		(at -35.56 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a2b3edf-2cef-496d-826a-542506375577")
+		(property "Reference" "SW4"
+			(at -35.56 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Switch"
+			(at -35.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Button_MJTP1243"
+			(at -35.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -35.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at -35.56 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8a1d5d57-9e7a-4a66-8c63-6788c6f13c24")
+		)
+		(pin "2"
+			(uuid "1f77b569-4ac3-4447-8503-464ad30f89db")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 132.08 135.89 0)
 		(unit 1)
@@ -11172,7 +11939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 132.08 135.89 0)
 			(effects
 				(font
@@ -11635,7 +12402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 144.78 128.27 0)
 			(effects
 				(font
@@ -11792,7 +12559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 170.18 138.43 0)
 			(effects
 				(font
@@ -12012,7 +12779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 158.75 143.51 0)
 			(effects
 				(font
@@ -12081,7 +12848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -111.76 161.29 0)
 			(effects
 				(font
@@ -12468,7 +13235,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -63.5 144.78 0)
 			(effects
 				(font
@@ -12689,7 +13456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -101.6 121.92 0)
 			(effects
 				(font
@@ -12847,7 +13614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -63.5 127 0)
 			(effects
 				(font
@@ -12916,7 +13683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -77.47 124.46 0)
 			(effects
 				(font
@@ -13162,7 +13929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -77.47 142.24 0)
 			(effects
 				(font
@@ -13320,7 +14087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -88.9 80.01 0)
 			(effects
 				(font
@@ -13389,7 +14156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -114.3 88.9 0)
 			(effects
 				(font
@@ -13458,7 +14225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -114.3 146.05 0)
 			(effects
 				(font
@@ -13527,7 +14294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -114.3 109.22 0)
 			(effects
 				(font
@@ -13660,7 +14427,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:MCU_Nice_Nano_V2")
-		(at 93.98 101.6 0)
+		(at 101.6 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13668,7 +14435,7 @@
 		(dnp no)
 		(uuid "b97a4905-0aac-48de-bf31-5701c51e0cd4")
 		(property "Reference" "U2"
-			(at 93.98 120.65 0)
+			(at 101.6 116.84 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -13676,7 +14443,7 @@
 			)
 		)
 		(property "Value" "Nice_Nano_V2"
-			(at 93.98 123.19 0)
+			(at 101.6 119.38 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -13684,7 +14451,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2_Flipped"
-			(at 93.98 124.46 0)
+			(at 101.6 120.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -13693,7 +14460,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 165.1 90)
+			(at 128.27 161.29 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -13702,7 +14469,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 101.6 0)
+			(at 101.6 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13980,7 +14747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -77.47 85.09 0)
 			(effects
 				(font
@@ -14048,7 +14815,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 170.18 101.6 0)
 			(effects
 				(font
@@ -14580,7 +15347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 144.78 88.9 0)
 			(effects
 				(font
@@ -14649,7 +15416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -101.6 82.55 0)
 			(effects
 				(font
@@ -14806,7 +15573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 208.28 110.49 0)
 			(effects
 				(font
@@ -14964,7 +15731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -60.96 163.83 0)
 			(effects
 				(font
@@ -15033,7 +15800,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -88.9 100.33 0)
 			(effects
 				(font
@@ -15076,6 +15843,74 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Switch")
+		(at -34.29 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d548a5c7-8f2c-4b6a-92b8-c2fc83ddd904")
+		(property "Reference" "SW3"
+			(at -34.29 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Switch"
+			(at -34.29 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:Switch_MSK12C02"
+			(at -34.29 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -34.29 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at -34.29 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03dab8ca-e874-46d8-bd2d-77eaf6fcd79f")
+		)
+		(pin "2"
+			(uuid "f1a67f5c-612b-431c-94ed-861c98c63a0a")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at -88.9 137.16 0)
 		(mirror y)
@@ -15102,7 +15937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -88.9 137.16 0)
 			(effects
 				(font
@@ -15524,7 +16359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 193.04 162.56 0)
 			(effects
 				(font
@@ -15834,7 +16669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -127 109.22 0)
 			(effects
 				(font
@@ -15990,7 +16825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 144.78 146.05 0)
 			(effects
 				(font
@@ -16146,7 +16981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 208.28 147.32 0)
 			(effects
 				(font
@@ -16702,7 +17537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at 142.24 165.1 0)
 			(effects
 				(font
@@ -16771,7 +17606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_Reversable"
 			(at -127 146.05 0)
 			(effects
 				(font
