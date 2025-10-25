@@ -1,4 +1,4 @@
-26912263754983710
+26921070832040146
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92669,6 +92669,41 @@ Panelization
 MouseBite-Slot_2.54x5.08mm_on-edge_D0.5mm_P0.85mm_5h_Trace
 Break slot 2.54mm, standard: L=5.08mm, holes on-edge: acceptable, room for traces
 mousebite stamp slot break tab 2mm edge on-edge
+0
+0
+0
+Panelization 2
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+Panelization 2
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+Panelization 2
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+Panelization 2
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+Panelization 2
+mouse-bite-5mm-slot
+
+
 0
 0
 0
