@@ -1,4 +1,4 @@
-26921070832040146
+26929881874092429
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61375,6 +61375,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-C3_SUPERMINI_TH
+MODULE_ESP32-C3_SUPERMINI_TH
+
+
+0
+16
+16
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -106357,6 +106364,20 @@ igbt diode module
 0
 25
 25
+USB4125-GF-A-0190
+CONN6_125-GF-A-0190_GCT
+
+USB4125-GF-A-0190 
+0
+7
+7
+USB4125-GF-A-0190_REVA2
+GCT_USB4125-GF-A-0190_REVA2
+
+
+0
+10
+10
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -107141,6 +107162,13 @@ Varistor VF
 0
 2
 2
+custom
+pad - oval2.5x1.5
+
+
+0
+1
+1
 logoo
 hedwig leftttt
 
@@ -107157,6 +107185,13 @@ hedwig rightttt
 0
 logoo
 hogwarts
+
+
+0
+0
+0
+logoo
+the deathly hallows symbol
 
 
 0

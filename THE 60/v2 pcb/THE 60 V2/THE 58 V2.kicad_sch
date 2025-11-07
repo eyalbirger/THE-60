@@ -173,6 +173,189 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:LED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -9099,6 +9282,28 @@
 			)
 		)
 	)
+	(global_label "gnd"
+		(shape input)
+		(at 66.04 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "60a4492e-a21b-40d0-baca-2f8d03a1f2ef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.4722 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "cs."
 		(shape input)
 		(at -15.24 69.85 270)
@@ -9583,6 +9788,28 @@
 			)
 		)
 	)
+	(global_label "+."
+		(shape input)
+		(at -3.81 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9d9b8060-681e-4410-bc71-34ce1194b24f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 1.3524 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "20."
 		(shape input)
 		(at -17.78 129.54 0)
@@ -9781,6 +10008,28 @@
 			)
 		)
 	)
+	(global_label "+."
+		(shape input)
+		(at -11.43 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b29a7757-d370-4368-9326-5b29d16a8ea3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -16.5924 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row 1"
 		(shape input)
 		(at 86.36 101.6 180)
@@ -9935,6 +10184,28 @@
 			)
 		)
 	)
+	(global_label "+"
+		(shape input)
+		(at 63.5 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c1bbedb5-95b0-47d7-adc0-8e9aff9ac34b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 58.9424 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "b+"
 		(shape input)
 		(at 86.36 83.82 180)
@@ -9953,6 +10224,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+"
+		(shape input)
+		(at 71.12 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c36291b4-8f25-40f1-8f23-bd7787d48cff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.6776 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10058,6 +10351,28 @@
 		(uuid "d7e7ff45-ed5e-4461-8165-ea0e1f421d91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 77.932 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "gnd."
+		(shape input)
+		(at -11.43 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d7f44032-3c69-4be5-b35f-aa214a7ab849")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -18.467 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10265,6 +10580,28 @@
 			)
 		)
 	)
+	(global_label "gnd."
+		(shape input)
+		(at -3.81 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f6887332-f728-4a48-b2a9-03e6583ac512")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 3.227 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+."
 		(shape input)
 		(at -33.02 74.93 0)
@@ -10283,6 +10620,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "gnd"
+		(shape input)
+		(at 58.42 166.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fd29121b-e9e3-47ba-b6b3-0e4d948393c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.9878 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -10639,6 +10998,83 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 67.31 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e38b8d4-53ef-4df2-9e3d-b3d23758416a")
+		(property "Reference" "D61"
+			(at 65.7225 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 65.7225 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "custom:pad - oval2.5x1.5"
+			(at 67.31 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.31 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 67.31 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 67.31 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87b4c1f4-a6ee-44a3-b624-5bb214720a0d")
+		)
+		(pin "2"
+			(uuid "4dd6ea7e-d606-4235-bfec-b4ba8f6e0bf8")
+		)
+		(instances
+			(project ""
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -12698,6 +13134,83 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "D34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at -7.62 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41f234de-9b8a-4284-bd13-2a02c1920dcc")
+		(property "Reference" "D63"
+			(at -9.2075 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at -9.2075 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "custom:pad - oval2.5x1.5"
+			(at -7.62 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -7.62 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at -7.62 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -7.62 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c3cbbc32-69ba-46d4-a234-385ddd86639a")
+		)
+		(pin "2"
+			(uuid "290961c8-8547-4f38-8b9b-78e2e9032d7c")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -14905,6 +15418,83 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at -7.62 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a68f3a3-445f-42b0-89be-17e1ba282bab")
+		(property "Reference" "D64"
+			(at -9.2075 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at -9.2075 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "custom:pad - oval2.5x1.5"
+			(at -7.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -7.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at -7.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at -7.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1156ed0-2e63-41b9-97e2-761a77c662af")
+		)
+		(pin "2"
+			(uuid "f1831c50-c879-4167-bbf5-bc20f8073d4e")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -21079,6 +21669,83 @@
 			(project "THE SPLITY"
 				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
 					(reference "S29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 62.23 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc498521-36f8-4888-86d9-94d3aa26fa27")
+		(property "Reference" "D62"
+			(at 60.6425 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 60.6425 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "custom:pad - oval2.5x1.5"
+			(at 62.23 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 62.23 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 62.23 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6448acba-dcd3-4d12-a42b-d591b984dff6")
+		)
+		(pin "2"
+			(uuid "8afdaa6f-cbc3-44c7-ba66-7ba27a530a81")
+		)
+		(instances
+			(project "THE 58 V2"
+				(path "/d377bd6e-6f97-4d3e-8a43-76ce85113ab3"
+					(reference "D62")
 					(unit 1)
 				)
 			)
