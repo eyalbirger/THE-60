@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"S49,S59,S53,S2,S27,S19,S40,S41,S58,S56,S45,S38,S3,S48,S54,S39,S5,S42,S46,S12,S44,S20,S24,S34,S7,S28,S10,S30,S36,S32,S29,S43,S6,S13,S57,S1,S14,S4,S23,S55,S37,S33,S9,S31,S21,S50,S52,S35,S51,S15,S11,S18,S8,S26,S25,S47,S60,S17,S16,S22";"MX_PCB_1.00u";60;"Keyswitch";;;
+2;"U4,U3";"TRRS_PJ-320A";2;"TRRS";;;
+3;"SW2,SW4";"Button_MJTP1243";2;"Switch";;;
+4;"R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"Resistor";;;
+5;"SW3,SW1";"Switch_MSK12C02";2;"Switch";;;
+6;"Display2,Display1";"nice_view";2;"nice!view";;;
+7;"U2,U1";"Nice_Nano_V2_Flipped";2;"Nice_Nano_V2";;;
+8;"D25,D46,D50,D10,D43,D17,D13,D32,D26,D42,D29,D19,D8,D31,D48,D5,D38,D54,D56,D60,D49,D18,D21,D44,D37,D30,D1,D7,D53,D35,D57,D3,D27,D4,D39,D2,D16,D28,D36,D51,D58,D11,D9,D15,D6,D14,D12,D45,D34,D47,D33,D59,D20,D23,D52,D22,D40,D55,D41,D24";"Diode_DO-35";60;"Diode";;;
+9;"D64,D61,D62,D63";"pad - oval2.5x1.5";4;"LED";;;
+10;"J2,J1";"JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical";2;"Conn_01x02_Socket";;;
